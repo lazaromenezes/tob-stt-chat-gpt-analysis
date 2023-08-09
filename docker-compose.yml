@@ -1,0 +1,19 @@
+version: "3.8"
+services: 
+  chrome-server:
+    image: "selenium/standalone-chrome:latest"
+    ports:
+      - 4444
+      - 7900
+  extractor:
+    profiles: ["extractor"]
+    depends_on:
+      - chrome-server
+    volumes:
+      - ./logs:/opt/logs
+    environment:
+      DRIVER_URL: "http://chrome-server:4444"
+    build:
+      context: .
+
+
