@@ -1,6 +1,7 @@
 version: "3.8"
 services: 
   chrome-server:
+    profiles: ["extractor-server"]
     image: "selenium/standalone-chrome:latest"
     ports:
       - 4444
@@ -15,5 +16,17 @@ services:
       DRIVER_URL: "http://chrome-server:4444"
     build:
       context: .
-
+  jupyter:
+    profiles: ["analysis"]
+    image: jupyter/datascience-notebook:2023-07-31
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./logs:/home/jovyan/work
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              capabilities: [gpu]
 
