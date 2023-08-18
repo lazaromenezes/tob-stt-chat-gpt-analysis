@@ -1,0 +1,206 @@
+Seeker: TOB_STT iniciar conversa
+TOB-STT: I don't know how to respond this
+Seeker: what is a fault-based testing
+TOB-STT: The fault-based testing is a technique to create test sets that uses the information of the most likely and predefined faults. Hence, the test cases chosen have are better at revealing those likely faults (if present) in the program. To better focus the test case generation or selection, a fault model can be introduced that classifies the different types of faults.
+Seeker: what is a mistake
+TOB-STT: A mistake is a human action that inserts a fault (or defect) into the source code, for instance, a typo is a mistake.
+Seeker: what is a test set
+TOB-STT: The test set is composed by several test cases that are used in a software testing activity.
+Seeker: what is a data test
+TOB-STT: The test data (or test input) is the input data and the parameters associated with a specified test case.
+Seeker: what is a test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: what is structural testing
+TOB-STT: Structural testing (or White-Box testing) is a technique in which tests are derived from the knowledge of the software's structure or internal implementation. That way, the testing professional is able to check if a specific part of the code is correct. Unit testing is an instance of structural testing.
+Seeker: what is a fault
+TOB-STT: Fault is an incorrect step, process, or data definition in computer program. Fault is the formal name of a bug.
+Seeker: what is a defect
+TOB-STT: A software defect or bug is a condition in a software product which doesn’t meet a software requirement or end-user expectation.
+Seeker: what is a bug
+TOB-STT: A software defect or bug is a condition in a software product which doesn’t meet a software requirement or end-user expectation.
+Seeker: what is a boundary value
+TOB-STT: Boundary value analysis is a functional testing criterion which test data are chosen on or near the boundaries of the input domain of variables, with the underlying rationale that many faults tend to concentrate near the extreme values of inputs. An extension of this technique is robustness testing, wherein test cases are also chosen outside the input domain of variables to test program robustness in processing unexpected or erroneous inputs.
+Seeker: what is a limit value
+TOB-STT: The limit values are generally the boundaries of an interval in which the input is well defined, i.e. the boundaries of the input domain.
+Seeker: define boundary value analysis
+TOB-STT: Boundary value analysis is a functional testing criterion which test data are chosen on or near the boundaries of the input domain of variables, with the underlying rationale that many faults tend to concentrate near the extreme values of inputs. An extension of this technique is robustness testing, wherein test cases are also chosen outside the input domain of variables to test program robustness in processing unexpected or erroneous inputs.
+Seeker: do you know what is a test case
+TOB-STT: I don't know how to respond this
+Seeker: do you know what a test case is
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: ok, what is the definition of mistake
+TOB-STT: I don't know how to respond this
+Seeker: what is the definition of mistake
+TOB-STT: A mistake is a human action that inserts a fault (or defect) into the source code, for instance, a typo is a mistake.
+Seeker: tell me what is a test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: ok, what is a test case
+TOB-STT: I don't know how to respond this
+Seeker: ok what is a test case
+TOB-STT: I don't know how to respond this
+Seeker: and what is a test case
+TOB-STT: I don't know how to respond this
+Seeker: and what is a test case
+TOB-STT: I don't know how to respond this
+Seeker: tell me what is a test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: TOB_STT iniciar conversa
+TOB-STT: I don't know how to respond this
+Seeker: and what is a test case
+TOB-STT: I don't know how to respond this
+Seeker: what is a test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: i am wondering what is a test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: i d like to know what is a test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: and what is a test case
+TOB-STT: I don't know how to respond this
+Seeker: TOB_STT iniciar conversa
+TOB-STT: I don't know how to respond this
+Seeker: and what is test case
+TOB-STT: I don't know how to respond this
+Seeker: TOB_STT iniciar conversa
+TOB-STT: I don't know how to respond this
+Seeker: TOB_STT iniciar conversa
+TOB-STT: I don't know how to respond this
+Seeker: what is test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: and what is a test set
+TOB-STT: The test set is composed by several test cases that are used in a software testing activity.
+Seeker: and what is a test case
+TOB-STT: I don't know how to respond this
+Seeker: and what is a test set
+TOB-STT: The test set is composed by several test cases that are used in a software testing activity.
+Seeker: what is test set
+TOB-STT: The test set is composed by several test cases that are used in a software testing activity.
+Seeker: i d like to know what is the definition of a test set
+TOB-STT: The test set is composed by several test cases that are used in a software testing activity.
+Seeker: could you tell me what does a test set mean
+TOB-STT: I don't know how to respond this
+Seeker: could you tell me what does test set mean
+TOB-STT: I don't know how to respond this
+Seeker: what does test set mean
+TOB-STT: I don't know how to respond this
+Seeker: what does test set means
+TOB-STT: I don't know how to respond this
+Seeker: could you tell me what is the meaning of a test set
+TOB-STT: The test set is composed by several test cases that are used in a software testing activity.
+Seeker: and what is a test case
+TOB-STT: I don't know how to respond this
+Seeker: could you tell me what is a test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: i wanna know what is a test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: tell me what is a test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: can you tell me what is a test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: could you tell me what is a test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: can you tell to me what is a test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: could you tell to me what is a test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: could you say to me what is a test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: can you say to me what is a test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: please tell me what is a test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: i would like to know what is a test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: i want to know what is a test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: id like to know what is a test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: i d like to know what is a test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: i d like to know what is a test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: and what is a test case
+TOB-STT: I don't know how to respond this
+Seeker: so, what is a test case
+TOB-STT: I don't know how to respond this
+Seeker: hello, what is a test case
+TOB-STT: I don't know how to respond this
+Seeker: hi, what is a test case
+TOB-STT: I don't know how to respond this
+Seeker: hi there what is a test case
+TOB-STT: I don't know how to respond this
+Seeker: boundarie-value
+TOB-STT: I don't know how to respond this
+Seeker: i d like to know what is a test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: TOB_STT iniciar conversa
+TOB-STT: I don't know how to respond this
+Seeker: and what is a test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: can you tell me what is a test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: could you tell me what is a test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: could you say to me what is a test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: can you say to me what is a test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: please tell me what is a test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: I would like to know what is a test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: I want to know what is a test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: I wanna know what is a test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: id like to know what is a test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: i d like to know what is a test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: i d like to know what is a test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: and what is a test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: so what is a test case
+TOB-STT: I don't know how to respond this
+Seeker: TOB_STT iniciar conversa
+TOB-STT: I don't know how to respond this
+Seeker: so what is test case
+TOB-STT: I don't know how to respond this
+Seeker: hello what is test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: hi what is test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: hi there what is test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: i am wondering what is test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: i am wondering what is test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: i m wondering what is test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: what about what is test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: ok what is test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: alright what is test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: do you know what is test case
+TOB-STT: I don't know how to respond this
+Seeker: do you know what is test set
+TOB-STT: I don't know how to respond this
+Seeker: what is test set
+TOB-STT: The test set is composed by several test cases that are used in a software testing activity.
+Seeker: could you tell me what is the meaning of a test set
+TOB-STT: The test set is composed by several test cases that are used in a software testing activity.
+Seeker: alright what does a test set mean
+TOB-STT: The test set is composed by several test cases that are used in a software testing activity.
+Seeker: please tell me what are the test set
+TOB-STT: The test set is composed by several test cases that are used in a software testing activity.
+Seeker: so what is test case
+TOB-STT: I don't know how to respond this
+Seeker: TOB_STT iniciar conversa
+TOB-STT: I don't know how to respond this
+Seeker: so what is test case
+TOB-STT: I don't know how to respond this
+Seeker: and what is test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.

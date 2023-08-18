@@ -1,0 +1,10 @@
+Seeker: hi
+TOB-STT: Welcome!
+Seeker: what is bug
+TOB-STT: A software defect or bug is a condition in a software product which doesn’t meet a software requirement or end-user expectation.
+Seeker: What is the difference between fault and error
+TOB-STT: Fault is an incorrect step, process, or data definition in computer program. Fault is the formal name of a bug. An error is a state of execution of the program which is not expected and may lead to an incorrect result.
+Seeker: How do i apply equivalence class partitioning criteria
+TOB-STT: The equivalence partitioning criterion divides the input domain in several subsets (partitions) with no intersection and selects a test case for each partition. The idea is that each test case represents all input domain that partition class and, therefore, one test case for each class is enough for this testing criterion. The criterion considers valid and invalid equivalence classes. For example, you can separate invalid and valid inputs into two different subsets or classes.
+Seeker: what is a bug
+TOB-STT: A software defect or bug is a condition in a software product which doesn’t meet a software requirement or end-user expectation.

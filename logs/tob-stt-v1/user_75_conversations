@@ -1,0 +1,8 @@
+Seeker: TOB_STT iniciar conversa
+TOB-STT: I don't know how to respond this
+Seeker: could you give me an example of input domain
+TOB-STT: Suppose you have a program that, given a date in the year outputs the sign of the person born in that day. Your input domain, in this case, is the set of all the 365 days in the year.
+Seeker: another example of input domain
+TOB-STT: Suppose your input is a string with exactly 16 digits and containing only lower case letters, then the input domain consists of 26^16 possibilities
+Seeker: could you tell me an instance of functional testing
+TOB-STT: In functional testing technique, the functionality of an application is tested by providing inputs to generate the desired outputs. Consider a bus ticket purchase system with the following requirement: The discount amount is calculated as follows: students can purchase up to 100 tickets per month, with a 50% discount; workers can buy up to 50 tickets a month, with a 30% discount; other users do not have discount on the ticket price. The functional testing concentrates in selection of test input (or data test) to test this functionality, for instance, selecting test input for each class of user of the bus (student, worker and others).

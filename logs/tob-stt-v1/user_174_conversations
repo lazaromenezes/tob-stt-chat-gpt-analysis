@@ -1,0 +1,38 @@
+Seeker: hei
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: hey
+TOB-STT: Welcome!
+Seeker: hi
+TOB-STT: Hello, ask me a question!
+Seeker: what is functional testing
+TOB-STT: Functional testing (or Black Box Testing) is a technique whereby the system is tested against the functional requirements/specifications. During the functional testing the internal logic of the system being tested is not known to the tester. Functional testing ensures that the requirements are properly satisfied by the system. This type of testing is not concerned with how processing occurs, but rather, with the results of processing. It simulates actual system usage but does not make any system structure assumptions. Functional testing is normally performed during the levels of System Testing and Acceptance Testing.
+Seeker: what is functional testing
+TOB-STT: Functional testing (or Black Box Testing) is a technique whereby the system is tested against the functional requirements/specifications. During the functional testing the internal logic of the system being tested is not known to the tester. Functional testing ensures that the requirements are properly satisfied by the system. This type of testing is not concerned with how processing occurs, but rather, with the results of processing. It simulates actual system usage but does not make any system structure assumptions. Functional testing is normally performed during the levels of System Testing and Acceptance Testing.
+Seeker: what functional testing
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what functional testing is
+TOB-STT: Functional testing (or Black Box Testing) is a technique whereby the system is tested against the functional requirements/specifications. During the functional testing the internal logic of the system being tested is not known to the tester. Functional testing ensures that the requirements are properly satisfied by the system. This type of testing is not concerned with how processing occurs, but rather, with the results of processing. It simulates actual system usage but does not make any system structure assumptions. Functional testing is normally performed during the levels of System Testing and Acceptance Testing.
+Seeker: example
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: example of functional testing
+TOB-STT: In functional testing technique, the functionality of an application is tested by providing inputs to generate the desired outputs. Consider a bus ticket purchase system with the following requirement: The discount amount is calculated as follows: students can purchase up to 100 tickets per month, with a 50% discount; workers can buy up to 50 tickets a month, with a 30% discount; other users do not have discount on the ticket price. The functional testing concentrates in selection of test input (or data test) to test this functionality, for instance, selecting test input for each class of user of the bus (student, worker and others).
+Seeker: another one
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: another example
+TOB-STT: In functional testing technique, the functionality of an application is tested by providing inputs to generate the desired outputs. Consider a bus ticket purchase system with the following requirement: The discount amount is calculated as follows: students can purchase up to 100 tickets per month, with a 50% discount; workers can buy up to 50 tickets a month, with a 30% discount; other users do not have discount on the ticket price. The functional testing concentrates in selection of test input (or data test) to test this functionality, for instance, selecting test input for each class of user of the bus (student, worker and others).
+Seeker: another example
+TOB-STT: In functional testing technique, the functionality of an application is tested by providing inputs to generate the desired outputs. Consider a bus ticket purchase system with the following requirement: The discount amount is calculated as follows: students can purchase up to 100 tickets per month, with a 50% discount; workers can buy up to 50 tickets a month, with a 30% discount; other users do not have discount on the ticket price. The functional testing concentrates in selection of test input (or data test) to test this functionality, for instance, selecting test input for each class of user of the bus (student, worker and others).
+Seeker: another example
+TOB-STT: In functional testing technique, the functionality of an application is tested by providing inputs to generate the desired outputs. Consider a bus ticket purchase system with the following requirement: The discount amount is calculated as follows: students can purchase up to 100 tickets per month, with a 50% discount; workers can buy up to 50 tickets a month, with a 30% discount; other users do not have discount on the ticket price. The functional testing concentrates in selection of test input (or data test) to test this functionality, for instance, selecting test input for each class of user of the bus (student, worker and others).
+Seeker: what is defect
+TOB-STT: A software defect or bug is a condition in a software product which doesn’t meet a software requirement or end-user expectation.
+Seeker: another example
+TOB-STT: In functional testing technique, the functionality of an application is tested by providing inputs to generate the desired outputs. Consider a bus ticket purchase system with the following requirement: The discount amount is calculated as follows: students can purchase up to 100 tickets per month, with a 50% discount; workers can buy up to 50 tickets a month, with a 30% discount; other users do not have discount on the ticket price. The functional testing concentrates in selection of test input (or data test) to test this functionality, for instance, selecting test input for each class of user of the bus (student, worker and others).
+Seeker: another example
+TOB-STT: In functional testing technique, the functionality of an application is tested by providing inputs to generate the desired outputs. Consider a bus ticket purchase system with the following requirement: The discount amount is calculated as follows: students can purchase up to 100 tickets per month, with a 50% discount; workers can buy up to 50 tickets a month, with a 30% discount; other users do not have discount on the ticket price. The functional testing concentrates in selection of test input (or data test) to test this functionality, for instance, selecting test input for each class of user of the bus (student, worker and others).
+Seeker: hey
+TOB-STT: Hello, ask me a question!
+Seeker: what is a bug
+TOB-STT: A software defect or bug is a condition in a software product which doesn’t meet a software requirement or end-user expectation.
+Seeker: thanks
+TOB-STT: You are welcome! :)

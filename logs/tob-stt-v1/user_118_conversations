@@ -1,0 +1,18 @@
+Seeker: hello
+TOB-STT: Hello, ask me a question!
+Seeker: What Is Software Testing
+TOB-STT: Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenaice.
+Seeker: What Is Test criteria
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: What Is Testing criteria
+TOB-STT: A testing criteria or technique is a set of rules which define the information to be used to create a test set, in order to fulfill some objective. For example, the white-box testing uses the information of the code’s structure to create a test set.
+Seeker: What Is white-box texting
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: What Is Black-box testing
+TOB-STT: Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenaice.
+Seeker: what is white box testing
+TOB-STT: Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenaice.
+Seeker: what is software failure
+TOB-STT: A failure is a result of the program which is incorrect or not expected. This is caused by an error.
+Seeker: white box testing
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?

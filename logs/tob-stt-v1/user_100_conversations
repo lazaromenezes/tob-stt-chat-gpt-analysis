@@ -1,0 +1,62 @@
+Seeker: hi
+TOB-STT: Hello, how are you?
+Seeker: Simone
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: I am Simone
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is software testing
+TOB-STT: Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenaice.
+Seeker: what is structural testing
+TOB-STT: Structural testing (or White-Box testing) is a technique in which tests are derived from the knowledge of the software's structure or internal implementation. That way, the testing professional is able to check if a specific part of the code is correct. Unit testing is an instance of structural testing.
+Seeker: what is a software technique
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is system testing
+TOB-STT: System testing is a level of software testing where a complete and integrated software is tested. The purpose of this test is to evaluate the system’s compliance with the specified requirements.
+Seeker: what is unit testing
+TOB-STT: Unit testing verifies the functioning in isolation of software elements that are separately testable. Depending on the context, these could be the individual subprograms or a larger component made of highly cohesive units. Typically, unit testing occurs with access to the code being tested and with the support of supporting tools. The programmers who wrote the code typically, but not always, conduct unit testing.
+Seeker: what is integration testing
+TOB-STT: Integration testing is the process of verifying the interactions among software components. Classical integration testing strategies, such as top-down and bottom-up, are often used with hierarchically structured software.
+Seeker: Can you give me an example of equivalence class partitioning
+TOB-STT: Here is an example of an application of equivalence partitioning. Consider the following specification: one of the fields of a form is a text box that accepts numeric values from 18 to 25. For this problem, a value that belongs to an invalid equivalence class is 17, whereas a value belonging to a valid equivalence class is, for instance, 20.
+Seeker: How do I apply equivalence class partitioning
+TOB-STT: The equivalence partitioning criterion divides the input domain in several subsets (partitions) with no intersection and selects a test case for each partition. The idea is that each test case represents all input domain that partition class and, therefore, one test case for each class is enough for this testing criterion. The criterion considers valid and invalid equivalence classes. For example, you can separate invalid and valid inputs into two different subsets or classes.
+Seeker: What is verification
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is validation
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is a fault
+TOB-STT: Fault is an incorrect step, process, or data definition in computer program. Fault is the formal name of a bug.
+Seeker: what is a error
+TOB-STT: An error is a state of execution of the program which is not expected and may lead to an incorrect result.
+Seeker: what is a failure
+TOB-STT: A failure is a result of the program which is incorrect or not expected. This is caused by an error.
+Seeker: what is white testing
+TOB-STT: Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenaice.
+Seeker: what is white box testing
+TOB-STT: Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenaice.
+Seeker: what is a test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: what is a oracle
+TOB-STT: An oracle is any human or mechanical agent that decides whether a program behaved correctly in a given test and accordingly results in a verdict of “pass” or “fail.” There exist many different kinds of oracles; for example, unambiguous requirements specifications, behavioral models, and code annotations. Automation of mechanized oracles can be difficult and expensive.
+Seeker: Hello
+TOB-STT: Hello, how are you?
+Seeker: Fine
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is a test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: what is a test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: what is white-box testing
+TOB-STT: Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenaice.
+Seeker: what is white box testing
+TOB-STT: Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenaice.
+Seeker: what is black box testing
+TOB-STT: Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenaice.
+Seeker: Hi
+TOB-STT: Hello, ask me a question!
+Seeker: What is black-box testing
+TOB-STT: Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenaice.
+Seeker: what is white box testing
+TOB-STT: Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenaice.
+Seeker: what is structural testing
+TOB-STT: Structural testing (or White-Box testing) is a technique in which tests are derived from the knowledge of the software's structure or internal implementation. That way, the testing professional is able to check if a specific part of the code is correct. Unit testing is an instance of structural testing.

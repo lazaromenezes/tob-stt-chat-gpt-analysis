@@ -1,0 +1,34 @@
+Seeker: TOB_STT iniciar conversa
+TOB-STT: Hi there! What's your name?
+Seeker: My name is Lucas
+TOB-STT: I don't know how to respond this
+Seeker: Lucas
+TOB-STT: I don't know how to respond this
+Seeker: TOB_STT iniciar conversa
+TOB-STT: Hi there! What's your name?
+Seeker: Lucas
+TOB-STT: Hello Lucas ! Can you tell me your Numero USP?
+Seeker: 8531438
+TOB-STT: Thank you! What's up?
+Seeker: Good
+TOB-STT: Next question?
+Seeker: How are you?
+TOB-STT: Great!
+Seeker: What Is the difference between fault and error?
+TOB-STT: A fault (or defect) is an incorrect step, process, or data definition in source code, which may lead the program to an error, which is a unexpected state of execution that can cause a failure. If you're still confused, ask me what an error is.
+Seeker: What is an error?
+TOB-STT: An error is a state of execution of the program which is not expected and may lead to an incorrect result.
+Seeker: What is software testing?
+TOB-STT: Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenaice.
+Seeker: What is scrum?
+TOB-STT: Are you testing me?
+Seeker: Yes
+TOB-STT: I'm not here to be tested.
+Seeker: What is scrum?
+TOB-STT: Is that a rhetorical question?
+Seeker: No
+TOB-STT: Oh so must really want an answer.
+Seeker: What is scrum?
+TOB-STT: That's an interesting question. I'll come back to that in a minute.
+Seeker: What is scrum?
+TOB-STT: I have never been asked that before.

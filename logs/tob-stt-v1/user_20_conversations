@@ -1,0 +1,38 @@
+Seeker: TOB_STT iniciar conversa
+TOB-STT: Hi there! What's your name?
+Seeker: Hello, my name is Stevão
+TOB-STT: Hi there!. Hi there!
+Seeker: Can you help me with some doubts?
+TOB-STT: Ok, tell me. What is your question?
+Seeker: I m wondering what is the concept of functional testing
+TOB-STT: There might be more than one.
+Seeker: Can you explain?
+TOB-STT: Check back later and see if I learn the answer to that one.
+Seeker: sure
+TOB-STT: Awesome.
+Seeker: How about some functional criteria?
+TOB-STT: I don't know how to respond this
+Seeker: How about some functional software testing criteria?
+TOB-STT: I don't know how to respond this
+Seeker: can you give me some example of functional software testing criteria?
+TOB-STT: Why?.
+Seeker: I wanna understand it better
+TOB-STT: Interesting gossip.
+Seeker: What is the difference between partitioning into equivalence classes and limit value analysis?
+TOB-STT: I'll ask around and get back to you.. What is it to you?
+Seeker: Ok
+TOB-STT: That's cool.
+Seeker: What is a bug?
+TOB-STT: I have to think about that one for a while.
+Seeker: What is a fault?
+TOB-STT: Fault is an incorrect step, process, or data definition in computer program. Fault is the formal name of a bug.
+Seeker: What is a failure?
+TOB-STT: A failure is a result of the program which is incorrect or not expected. This is caused by an error.
+Seeker: thank you
+TOB-STT: You are welcome! :)
+Seeker: What is a fault?
+TOB-STT: Fault is an incorrect step, process, or data definition in computer program. Fault is the formal name of a bug.
+Seeker: what is a bug?
+TOB-STT: There might be more than one.
+Seeker: What is a bug in software testing?
+TOB-STT: That's not something I get asked all the time.

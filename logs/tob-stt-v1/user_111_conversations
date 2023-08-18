@@ -1,0 +1,44 @@
+Seeker: hello
+TOB-STT: Welcome!
+Seeker: what is fault
+TOB-STT: Fault is an incorrect step, process, or data definition in computer program. Fault is the formal name of a bug.
+Seeker: what is software test
+TOB-STT: A test, in software testing, is the act of performing some assurance of both the correctness of a software and its validation of the project requisistes.
+Seeker: what is fault
+TOB-STT: Fault is an incorrect step, process, or data definition in computer program. Fault is the formal name of a bug.
+Seeker: what is error
+TOB-STT: An error is a state of execution of the program which is not expected and may lead to an incorrect result.
+Seeker: what is failure
+TOB-STT: A failure is a result of the program which is incorrect or not expected. This is caused by an error.
+Seeker: what is white box
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is white box testing
+TOB-STT: Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenaice.
+Seeker: what is testing
+TOB-STT: Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenaice.
+Seeker: ehat ar the three main phases of software testing
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what ar the three main phases of software testing
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what are the three main phases of software testing
+TOB-STT: Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenaice.
+Seeker: what is the aim of test
+TOB-STT: A test, in software testing, is the act of performing some assurance of both the correctness of a software and its validation of the project requisistes.
+Seeker: test
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what test
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is test
+TOB-STT: A test, in software testing, is the act of performing some assurance of both the correctness of a software and its validation of the project requisistes.
+Seeker: deffine white box
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: How do i apply equivalence class partitioning criteria
+TOB-STT: The equivalence partitioning criterion divides the input domain in several subsets (partitions) with no intersection and selects a test case for each partition. The idea is that each test case represents all input domain that partition class and, therefore, one test case for each class is enough for this testing criterion. The criterion considers valid and invalid equivalence classes. For example, you can separate invalid and valid inputs into two different subsets or classes.
+Seeker: How do i apply equivalence class partitioning criteria
+TOB-STT: The equivalence partitioning criterion divides the input domain in several subsets (partitions) with no intersection and selects a test case for each partition. The idea is that each test case represents all input domain that partition class and, therefore, one test case for each class is enough for this testing criterion. The criterion considers valid and invalid equivalence classes. For example, you can separate invalid and valid inputs into two different subsets or classes.
+Seeker: Can you give me a example of functional testing criteria
+TOB-STT: In functional testing technique, the functionality of an application is tested by providing inputs to generate the desired outputs. Consider a bus ticket purchase system with the following requirement: The discount amount is calculated as follows: students can purchase up to 100 tickets per month, with a 50% discount; workers can buy up to 50 tickets a month, with a 30% discount; other users do not have discount on the ticket price. The functional testing concentrates in selection of test input (or data test) to test this functionality, for instance, selecting test input for each class of user of the bus (student, worker and others).
+Seeker: what is white-box
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is white-box testing
+TOB-STT: Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenaice.

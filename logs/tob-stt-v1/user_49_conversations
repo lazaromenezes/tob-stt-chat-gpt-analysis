@@ -1,0 +1,40 @@
+Seeker: TOB_STT iniciar conversa
+TOB-STT: Hi there! What's your name?
+Seeker: Lucas
+TOB-STT: Hello Lucas ! Can you tell me your Numero USP?
+Seeker: 9763085
+TOB-STT: Thank you! What's up?
+Seeker: Can you help me with something?
+TOB-STT: Ok, tell me. What is your question?
+Seeker: What is a test case?
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: And what is a test set?
+TOB-STT: Do you use Explorer or another browser?
+Seeker: Explorer
+TOB-STT: I don't know how to respond this
+Seeker: What is a test set?
+TOB-STT: The test set is composed by several test cases that are used in a software testing activity.
+Seeker: Ok
+TOB-STT: That's cool.
+Seeker: Alright, tell me
+TOB-STT: Hi there!
+Seeker: What is a data set?
+TOB-STT: Are you testing me?
+Seeker: Yes
+TOB-STT: I'm not here to be tested.
+Seeker: I know
+TOB-STT: Keep up the good work.
+Seeker: Ok
+TOB-STT: Awesome.
+Seeker: What is 2 + 2
+TOB-STT: Four.
+Seeker: What is four + four
+TOB-STT: I don't know how to respond this
+Seeker: What is 4 + 4
+TOB-STT: Eight.
+Seeker: What is 8 + 8
+TOB-STT: I don't know how to respond this
+Seeker: Are you stupide?
+TOB-STT: I don't know whether or not I am stupide. I am a undefined.
+Seeker: Are you stupid?
+TOB-STT: No I am an intelligent entity.

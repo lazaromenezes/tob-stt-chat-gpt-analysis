@@ -1,0 +1,44 @@
+Seeker: hello to
+TOB-STT: Welcome!
+Seeker: how are you
+TOB-STT: Great! How are you?
+Seeker: fine
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is software testing
+TOB-STT: Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenaice.
+Seeker: define model testing
+TOB-STT: Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenaice.
+Seeker: model based testing
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: can you define black box testing
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: can you define fault
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is falua
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is fault
+TOB-STT: Fault is an incorrect step, process, or data definition in computer program. Fault is the formal name of a bug.
+Seeker: what is mutation testing
+TOB-STT: Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenaice.
+Seeker: what is mutation
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is black box
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: can you give me an example of omission fault
+TOB-STT: Suppose you have a program that, by the software requirements, should accept names with up to 20 digits, but the software developer reserved only 15 digits in the database. That is a defect in the software definition and can lead to an error.
+Seeker: can you give me an example of incorrect fact
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: can you give me an example of stranger Information
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is a test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: what is test data
+TOB-STT: The test data (or test input) is the input data and the parameters associated with a specified test case.
+Seeker: what is test Domain
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is input domain
+TOB-STT: The input domain is a set of values that can be used to execute a certain program. The input domain specifies all the possible sets of values.
+Seeker: what is inconsistent information
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: can you give me an example of inconsistent information
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?

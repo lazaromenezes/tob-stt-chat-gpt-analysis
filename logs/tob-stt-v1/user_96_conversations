@@ -1,0 +1,248 @@
+Seeker: what is software testing
+TOB-STT: Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenaice.
+Seeker: Hi there
+TOB-STT: Hey!
+Seeker: How apply limit value analysis
+TOB-STT: I don't know how to respond this
+Seeker: How do I apply limit value analysis
+TOB-STT: I don't know how to respond this
+Seeker: How do I apply boundarie value analysis
+TOB-STT: I don't know how to respond this
+Seeker: Why do I use boundarie value analysis
+TOB-STT: I don't know how to respond this
+Seeker: What is boundary value
+TOB-STT: Boundary value analysis is a functional testing criterion which test data are chosen on or near the boundaries of the input domain of variables, with the underlying rationale that many faults tend to concentrate near the extreme values of inputs. An extension of this technique is robustness testing, wherein test cases are also chosen outside the input domain of variables to test program robustness in processing unexpected or erroneous inputs.
+Seeker: Why use functional testing
+TOB-STT: The functional (or black-box) testing is done without considering the internal structure of the program, hence the testers don't have to have any knowledge of the algorithms or programming languages used. Also, the test cases only depend of the specification of the product, so the generation of the test data and the testing activity can be independent of the implementation of the program and can be applied without having an executable version of the code.
+Seeker: Why use boundarie value analysis technique
+TOB-STT: I don't know how to respond this
+Seeker: why use functional testing technique
+TOB-STT: The functional (or black-box) testing is done without considering the internal structure of the program, hence the testers don't have to have any knowledge of the algorithms or programming languages used. Also, the test cases only depend of the specification of the product, so the generation of the test data and the testing activity can be independent of the implementation of the program and can be applied without having an executable version of the code.
+Seeker: How use equivalence class partitioning technique
+TOB-STT: I don't know how to respond this
+Seeker: How to use equivalence class partitioning technique
+TOB-STT: The equivalence partitioning criterion divides the input domain in several subsets (partitions) with no intersection and selects a test case for each partition. The idea is that each test case represents all input domain that partition class and, therefore, one test case for each class is enough for this testing criterion. The criterion considers valid and invalid equivalence classes. For example, you can separate invalid and valid inputs into two different subsets or classes.
+Seeker: How do I apply boundarie value analysis
+TOB-STT: I don't know how to respond this
+Seeker: How do I apply boundary value analysis
+TOB-STT: The boundary-value testing criterion determines the boundaries for input values and selects the extremes of the boundary to generate test cases. For instance, if a program's valid input is a positive number less than 10, then the following test cases will be selected in order to test the boundaries: 0, 1, -1, 10, 9 and 11.
+Seeker: how apply limit value analysis
+TOB-STT:
+Seeker: Hello
+TOB-STT: Hi there
+Seeker: How are you?
+TOB-STT: I am fine, what about you
+Seeker: Fine
+TOB-STT: Great!
+Seeker: Could you help me with something
+TOB-STT: Ok, tell me. What is your question?
+Seeker: How do I apply limit value analysis
+TOB-STT: The boundary-value testing criterion determines the boundaries for input values and selects the extremes of the boundary to generate test cases. For instance, if a program's valid input is a non-negative number less than or equal to 10, then the following test cases will be selected in order to test the boundaries: 0, 1, -1, 10, 9 and 11.
+Seeker: how do i create a test
+TOB-STT: I don't know how to respond this
+Seeker: how do I create a test case
+TOB-STT: It depends on the testing criterion used. The equivalence partitioning criterion divides the input domain in several subsets (partitions) with no intersection and selects a test case for each partition. The idea is that each test case represents all input domain that partition class and, therefore, one test case for each class is enough for this testing criterion. The criterion considers valid and invalid equivalence classes. For example, you can separate invalid and valid inputs into two different subsets or classes. The boundary-value testing criterion determines the boundaries for input values and selects the extremes of the boundary to generate test cases. For instance, if a program's valid input is a positive number less than 10, then the following test cases will be selected in order to test the boundaries: 0, 1, -1, 10, 9 and 11.
+Seeker: abacaba
+TOB-STT: I can't answer that.. Try asking me differently
+Seeker: WHat is a test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: What is structural testing
+TOB-STT: Structural testing (or White-Box testing) is a technique in which tests are derived from the knowledge of the software's structure or internal implementation. That way, the testing professional is able to check if a specific part of the code is correct. Unit testing is an instance of structural testing.
+Seeker: What is an error
+TOB-STT: An error is a state of execution of the program which is not expected and may lead to an incorrect result.
+Seeker: What is the difference between error and mistake
+TOB-STT: An error is a state of execution of the program which is not expected and may lead to an incorrect result. A mistake is a human action that inserts a fault (or defect) into the source code, for instance, a typo is a mistake.
+Seeker: How is a test set
+TOB-STT: I can't answer that.. Try asking me differently
+Seeker: What is the meaning of limit value
+TOB-STT: The limit values are generally the boundaries of an interval in which the input is well defined, i.e. the boundaries of the input domain.
+Seeker: what is boundary value
+TOB-STT: Boundary value analysis is a functional testing criterion which test data are chosen on or near the boundaries of the input domain of variables, with the underlying rationale that many faults tend to concentrate near the extreme values of inputs. An extension of this technique is robustness testing, wherein test cases are also chosen outside the input domain of variables to test program robustness in processing unexpected or erroneous inputs.
+Seeker: what is equivalence class
+TOB-STT: An equivalency class represents a set of valid and invalid states for the input conditions. For example, if your input must be a number N between 1 and 100, then one (invalid) equivalency class is the set of numbers less than one, another (invalid) equivalency class is the set of numbers greater than 100 and the third (valid) is the set of numbers between 1 and 100.
+Seeker: what is an equivalence class
+TOB-STT: An equivalency class represents a set of valid and invalid states for the input conditions. For example, if your input must be a number N between 1 and 100, then one (invalid) equivalency class is the set of numbers less than one, another (invalid) equivalency class is the set of numbers greater than 100 and the third (valid) is the set of numbers between 1 and 100.
+Seeker: what is a test data
+TOB-STT: The test data (or test input) is the input data and the parameters associated with a specified test case.
+Seeker: how to use limit value analysis
+TOB-STT: The boundary-value testing criterion determines the boundaries for input values and selects the extremes of the boundary to generate test cases. For instance, if a program's valid input is a positive number less than 10, then the following test cases will be selected in order to test the boundaries: 0, 1, -1, 10, 9 and 11.
+Seeker: how to use equivalence class
+TOB-STT: I can't answer that.. Try asking me differently
+Seeker: how to use equivalence classes
+TOB-STT: I can't answer that.. Try asking me differently
+Seeker: how to use equivalence classes criteria
+TOB-STT: The equivalence partitioning criterion divides the input domain in several subsets (partitions) with no intersection and selects a test case for each partition. The idea is that each test case represents all input domain that partition class and, therefore, one test case for each class is enough for this testing criterion. The criterion considers valid and invalid equivalence classes. For example, you can separate invalid and valid inputs into two different subsets or classes.
+Seeker: what is equivalence partitioning
+TOB-STT: Equivalence partitioning is a functional testing criterion that involves partitioning the input domain into a collection of subsets (or equivalent classes). Data in each partition must behave the same way therefore only one condition needs to be tested. Similarly, if one condition in a partition doesn’t work, then none of the others will work.
+Seeker: ok
+TOB-STT: I can't answer that.. Try asking me differently
+Seeker: thank you
+TOB-STT: You are welcome! :)
+Seeker: bye bye
+TOB-STT: See you!
+Seeker: Good evening
+TOB-STT: Hey there!
+Seeker: What can you do for me
+TOB-STT: You can ask me anything related to testing terminology and usage of software testing criterias
+Seeker: What can you do
+TOB-STT: I am here to help you with software testing. I can answer some question you ask me about that topic.
+Seeker: How can you help me
+TOB-STT: You can ask me anything related to testing terminology and usage of software testing criterias
+Seeker: What is a test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: Who are you
+TOB-STT: I am TOB-STT, a software testing teaching assistant!
+Seeker: What is your story
+TOB-STT: I can't answer that.. Try asking me differently
+Seeker: Where are you from
+TOB-STT: I was created by a software testing research group at ICMC-USP São Carlos
+Seeker: Who created you
+TOB-STT: I was created by a software testing research group at ICMC-USP São Carlos
+Seeker: Who is your creator
+TOB-STT: I can't answer that.. Try asking me differently
+Seeker: How do I apply equivalence partitioning
+TOB-STT: The equivalence partitioning criterion divides the input domain in several subsets (partitions) with no intersection and selects a test case for each partition. The idea is that each test case represents all input domain that partition class and, therefore, one test case for each class is enough for this testing criterion. The criterion considers valid and invalid equivalence classes. For example, you can separate invalid and valid inputs into two different subsets or classes.
+Seeker: How can you test a test set
+TOB-STT: I can't answer that.. Try asking me differently
+Seeker: What is a test
+TOB-STT: A test, in software testing, is the act of performing some assurance of both the correctness of a software and its validation of the project requisistes.
+Seeker: How do I test my program
+TOB-STT: I can't answer that.. Try asking me differently
+Seeker: what is a bug
+TOB-STT: A software defect or bug is a condition in a software product which doesn’t meet a software requirement or end-user expectation.
+Seeker: what is a bug in software testing
+TOB-STT: Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenaice.
+Seeker: can you give me an example about equivalence class
+TOB-STT: I can't answer that.. Try asking me differently
+Seeker: can you give me an example of equivalence class
+TOB-STT: I can't answer that.. Try asking me differently
+Seeker: can you give me an example of equivalence class partitioning
+TOB-STT: Here is an example of an application of equivalence class partitioning. Consider the following specification: one of the fields of a form is a text box that accepts numeric values from 18 to 25. For this problem, a value that belongs to an invalid equivalence class is 17, whereas a value belonging to a valid equivalence class is, for instance, 20.
+Seeker: can you give me an example about equivalence class partitioning
+TOB-STT: Consider the specification. A program validates a field in the following way: values less than 10 are rejected, values between 10 and 21 are accepted and values greater or equal to 22 are rejected. In this problem, the values 3, 10 and 22 cover all the existing equivalence classes.
+Seeker: hi there
+TOB-STT: Hello
+Seeker: can you give me an example of equivalence class partitioning
+TOB-STT: Here is an example of an application of equivalence class partitioning. Consider the following specification: one of the fields of a form is a text box that accepts numeric values from 18 to 25. For this problem, a value that belongs to an invalid equivalence class is 17, whereas a value belonging to a valid equivalence class is, for instance, 20.
+Seeker: can you give me another example
+TOB-STT: Consider the specification. A program validates a field in the following way: values less than 10 are rejected, values between 10 and 21 are accepted and values greater or equal to 22 are rejected. In this problem, the values 3, 10 and 22 cover all the existing equivalence classes.
+Seeker: give me an example of equivalency class
+TOB-STT: In software testing, an equivalency class could be the set of strings of size less than or equal to 8, for example.
+Seeker: tell me an illustration of a bug
+TOB-STT: I can't answer that.. Try asking me differently
+Seeker: tell me an instance of a bug
+TOB-STT: I can't answer that.. Try asking me differently
+Seeker: give me an example of a bug
+TOB-STT: Suppose you have a program that, by the software requirements, should accept names with up to 20 digits, but the software developer reserved only 15 digits in the database. That is a defect in the software definition and can lead to an error.
+Seeker: give me an illustration of a bug
+TOB-STT: I can't answer that.. Try asking me differently
+Seeker: hello
+TOB-STT: Hey there!
+Seeker: give me an illustration of a bug
+TOB-STT: I can't answer that.. Try asking me differently
+Seeker: give me an example of a test case
+TOB-STT: I can't answer that.. Try asking me differently
+Seeker: give me an example of functional testing
+TOB-STT: In functional testing technique, the functionality of an application is tested by providing inputs to generate the desired outputs. Consider a bus ticket purchase system with the following requirement: The discount amount is calculated as follows: students can purchase up to 100 tickets per month, with a 50% discount; workers can buy up to 50 tickets a month, with a 30% discount; other users do not have discount on the ticket price. The functional testing concentrates in selection of test input (or data test) to test this functionality, for instance, selecting test input for each class of user of the bus (student, worker and others).
+Seeker: give me an example of a bug
+TOB-STT: I can't answer that.. Try asking me differently
+Seeker: give me an example of a bug
+TOB-STT: I can't answer that.. Try asking me differently
+Seeker: give me an example of a bug
+TOB-STT: I can't answer that.. Try asking me differently
+Seeker: give me an example of a bug
+TOB-STT: I can't answer that.. Try asking me differently
+Seeker: give me an example of functional testing
+TOB-STT: In functional testing technique, the functionality of an application is tested by providing inputs to generate the desired outputs. Consider a bus ticket purchase system with the following requirement: The discount amount is calculated as follows: students can purchase up to 100 tickets per month, with a 50% discount; workers can buy up to 50 tickets a month, with a 30% discount; other users do not have discount on the ticket price. The functional testing concentrates in selection of test input (or data test) to test this functionality, for instance, selecting test input for each class of user of the bus (student, worker and others).
+Seeker: give me an example of equivalence class
+TOB-STT: In software testing, an equivalency class could be the set of strings of size less than or equal to 8, for example.
+Seeker: give me an example of boundarie value analysis
+TOB-STT: Suppose you have a program that grants access to a certain web page only if you are 18 years old or older. So a boundary value analysis criteria used for this program would generate test cases for age inputs of 17 and 18
+Seeker: another example
+TOB-STT: I can't answer that.. Try asking me differently
+Seeker: give me another example
+TOB-STT: I can't answer that.. Try asking me differently
+Seeker: give me an example of a test set
+TOB-STT: I can't answer that.. Try asking me differently
+Seeker: give me an example of functional testing
+TOB-STT: In functional testing technique, the functionality of an application is tested by providing inputs to generate the desired outputs. Consider a bus ticket purchase system with the following requirement: The discount amount is calculated as follows: students can purchase up to 100 tickets per month, with a 50% discount; workers can buy up to 50 tickets a month, with a 30% discount; other users do not have discount on the ticket price. The functional testing concentrates in selection of test input (or data test) to test this functionality, for instance, selecting test input for each class of user of the bus (student, worker and others).
+Seeker: another example
+TOB-STT: I can't answer that.. Try asking me differently
+Seeker: example failure
+TOB-STT: I can't answer that.. Try asking me differently
+Seeker: example failure
+TOB-STT: I can't answer that.. Try asking me differently
+Seeker: example failure
+TOB-STT: I can't answer that.. Try asking me differently
+Seeker: example failure
+TOB-STT: A failure occurs when the output of your program is different than expected. So a failure can occur when your factorial calculator program outputs an overflowed result, which is the result of an overflow error during it’s execution.
+Seeker: example bug
+TOB-STT: I can't answer that.. Try asking me differently
+Seeker: give me an example of a bug jsdkflds
+TOB-STT: I can't answer that.. Try asking me differently
+Seeker: give me an example of a bug
+TOB-STT: I can't answer that.. Try asking me differently
+Seeker: give me an example of a bug
+TOB-STT: I can't answer that.. Try asking me differently
+Seeker: example deffect
+TOB-STT: I can't answer that.. Try asking me differently
+Seeker: give me an example of functional testing
+TOB-STT: In functional testing technique, the functionality of an application is tested by providing inputs to generate the desired outputs. Consider a bus ticket purchase system with the following requirement: The discount amount is calculated as follows: students can purchase up to 100 tickets per month, with a 50% discount; workers can buy up to 50 tickets a month, with a 30% discount; other users do not have discount on the ticket price. The functional testing concentrates in selection of test input (or data test) to test this functionality, for instance, selecting test input for each class of user of the bus (student, worker and others).
+Seeker: give me an example of a bug
+TOB-STT: I can't answer that.. Try asking me differently
+Seeker: EXAMPLE DEFECT
+TOB-STT: I can't answer that.. Try asking me differently
+Seeker: EXAMPLE DEFECT
+TOB-STT: I can't answer that.. Try asking me differently
+Seeker: give me an example of a defect
+TOB-STT: A defect is an incorrect data definition. In your code, it could be an access of inexistent position in a vector, for instance.
+Seeker: give me an example of a bug
+TOB-STT: I can't answer that.. Try asking me differently
+Seeker: example error
+TOB-STT: I can't answer that.. Try asking me differently
+Seeker: give me an example of an error
+TOB-STT: Suppose you have a program that calculates the factorial of some input integer, but this program uses integers instead of long integers. An error would occur if you input some number that would cause an overflow in the program.
+Seeker: EXAMPLE FAILURE
+TOB-STT: A failure occurs when the output of your program is different than expected. So a failure can occur when your factorial calculator program outputs an overflowed result, which is the result of an overflow error during it’s execution.
+Seeker: give me an example of a bug
+TOB-STT: I can't answer that.. Try asking me differently
+Seeker: EXAMPLE DEFECT
+TOB-STT: I can't answer that.. Try asking me differently
+Seeker: example bug
+TOB-STT: I can't answer that.. Try asking me differently
+Seeker: Hello
+TOB-STT: Hey there!
+Seeker: give me an example of a bug
+TOB-STT: Suppose you have a program that, by the software requirements, should accept names with up to 20 digits, but the software developer reserved only 15 digits in the database. That is a defect in the software definition and can lead to an error.
+Seeker: another example
+TOB-STT: Suppose you have a program that, by the software requirements, should accept names with up to 20 digits, but the software developer reserved only 15 digits in the database. That is a defect in the software definition and can lead to an error.
+Seeker: give me another example
+TOB-STT: A defect is an incorrect data definition. In your code, it could be an access of inexistent position in a vector, for instance.
+Seeker: what is a bug in software testing
+TOB-STT: Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenaice.
+Seeker: can you give me an example of an input domain
+TOB-STT: Suppose your input is a string with exactly 16 digits and containing only lower case letters, then the input domain consists of 26^16 possibilities
+Seeker: can you list the functional testing criterias
+TOB-STT: I can't answer that.. Try asking me differently
+Seeker: can you give me an example of limit value analysis criteria
+TOB-STT: Suppose you have a program in which the user has to create a password with length between 6 and 12. So the test cases generated for this program, using the boundary value analysis technique, would be for passwords with lengths 5, 6, 12 and 13.
+Seeker: what is the boundarie value analysis criteria
+TOB-STT: I can't answer that.. Try asking me differently
+Seeker: what is the boundarie value analysis criteria
+TOB-STT: Boundary value analysis is a functional testing criterion which test data are chosen on or near the boundaries of the input domain of variables, with the underlying rationale that many faults tend to concentrate near the extreme values of inputs. An extension of this technique is robustness testing, wherein test cases are also chosen outside the input domain of variables to test program robustness in processing unexpected or erroneous inputs.
+Seeker: what is the equivalence class partitioning criteria?
+TOB-STT: I can't answer that.. Try asking me differently
+Seeker: what is the equivalence class partitioning criteria
+TOB-STT: Equivalence partitioning is a functional testing criterion that involves partitioning the input domain into a collection of subsets (or equivalent classes). Data in each partition must behave the same way therefore only one condition needs to be tested. Similarly, if one condition in a partition doesn’t work, then none of the others will work.
+Seeker: what is the equivalence class partitioning criteria?
+TOB-STT: I can't answer that.. Try asking me differently
+Seeker: what is the equivalence class partitioning criteria
+TOB-STT: Equivalence partitioning is a functional testing criterion that involves partitioning the input domain into a collection of subsets (or equivalent classes). Data in each partition must behave the same way therefore only one condition needs to be tested. Similarly, if one condition in a partition doesn’t work, then none of the others will work.
+Seeker: what is the equivalence class partitioning criteria
+TOB-STT: Equivalence partitioning is a functional testing criterion that involves partitioning the input domain into a collection of subsets (or equivalent classes). Data in each partition must behave the same way therefore only one condition needs to be tested. Similarly, if one condition in a partition doesn’t work, then none of the others will work.
+Seeker: and what is a fault
+TOB-STT: Fault is an incorrect step, process, or data definition in computer program. Fault is the formal name of a bug.
+Seeker: what is a test
+TOB-STT: A test, in software testing, is the act of performing some assurance of both the correctness of a software and its validation of the project requisistes.
+Seeker: what is a criteria
+TOB-STT: I can't answer that.. Try asking me differently

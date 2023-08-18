@@ -1,0 +1,18 @@
+Seeker: TOB_STT iniciar conversa
+TOB-STT: I don't know how to respond this
+Seeker: difference of functional testing and structural testing
+TOB-STT: Functional testing (or Black Box Testing) is a technique whereby the system is tested against the functional requirements/specifications. During the functional testing the internal logic of the system being tested is not known to the tester. Functional testing ensures that the requirements are properly satisfied by the system. This type of testing is not concerned with how processing occurs, but rather, with the results of processing. It simulates actual system usage but does not make any system structure assumptions. Functional testing is normally performed during the levels of System Testing and Acceptance Testing. Structural testing (or White-Box testing) is a technique in which tests are derived from the knowledge of the software's structure or internal implementation. That way, the testing professional is able to check if a specific part of the code is correct. Unit testing is an instance of structural testing.
+Seeker: can you tell me what are the difference between mistake and error
+TOB-STT: I don't know how to respond this
+Seeker: difference between mistake and error
+TOB-STT: DIFFERENCE OF mistake AND error
+Seeker: TOB_STT iniciar conversa
+TOB-STT: I don't know how to respond this
+Seeker: differences between mistake and error
+TOB-STT: A mistake is a human action that inserts a fault (or defect) into the source code, for instance, a typo is a mistake. An error is a state of execution of the program which is not expected and may lead to an incorrect result.
+Seeker: can you tell me what are the differences between mistake and error
+TOB-STT: A mistake is a human action that inserts a fault (or defect) into the source code, for instance, a typo is a mistake. An error is a state of execution of the program which is not expected and may lead to an incorrect result.
+Seeker: how are mistake and error different
+TOB-STT: A mistake is a human action that inserts a fault (or defect) into the source code, for instance, a typo is a mistake. An error is a state of execution of the program which is not expected and may lead to an incorrect result.
+Seeker: are you mad
+TOB-STT: I don't know how to respond this

@@ -1,0 +1,28 @@
+Seeker: TOB_STT iniciar conversa
+TOB-STT: Hi there! What's your name?
+Seeker: my name is LEo
+TOB-STT: I don't know how to respond this
+Seeker: Leo Natan Paschoal
+TOB-STT: I don't know how to respond this
+Seeker: Can you give me an example of functional testing
+TOB-STT: I don't know how to respond this
+Seeker: Can you give me an example of functional testing
+TOB-STT: I don't know how to respond this
+Seeker: hi
+TOB-STT: Hi there!
+Seeker: Can you give me an example of functional testing
+TOB-STT: I don't know how to respond this
+Seeker: TOB_STT iniciar conversa
+TOB-STT: Hi there! What's your name?
+Seeker: LEO
+TOB-STT: Hello LEO ! Can you tell me your Numero USP?
+Seeker: 10341667
+TOB-STT: Thank you! What's up?
+Seeker: Can you give me an example of functional testing
+TOB-STT: I don't know how to respond this
+Seeker: functional testing
+TOB-STT: I don't know how to respond this
+Seeker: what is functional testing?
+TOB-STT: Functional testing (or Black Box Testing) is a technique whereby the system is tested against the functional requirements/specifications. During the functional testing the internal logic of the system being tested is not known to the tester. Functional testing ensures that the requirements are properly satisfied by the system. This type of testing is not concerned with how processing occurs, but rather, with the results of processing. It simulates actual system usage but does not make any system structure assumptions. Functional testing is normally performed during the levels of System Testing and Acceptance Testing.
+Seeker: You can be an exemple?
+TOB-STT: Thanks for telling me.

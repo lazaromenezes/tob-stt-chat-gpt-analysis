@@ -1,0 +1,12 @@
+Seeker: Hello
+TOB-STT: Hello, ask me a question!
+Seeker: What is a fault
+TOB-STT: Fault is an incorrect step, process, or data definition in computer program. Fault is the formal name of a bug.
+Seeker: What is the difference between fault and error
+TOB-STT: Fault is an incorrect step, process, or data definition in computer program. Fault is the formal name of a bug. An error is a state of execution of the program which is not expected and may lead to an incorrect result.
+Seeker: Can you give me a example of functional testing criteria
+TOB-STT: In functional testing technique, the functionality of an application is tested by providing inputs to generate the desired outputs. Consider a bus ticket purchase system with the following requirement: The discount amount is calculated as follows: students can purchase up to 100 tickets per month, with a 50% discount; workers can buy up to 50 tickets a month, with a 30% discount; other users do not have discount on the ticket price. The functional testing concentrates in selection of test input (or data test) to test this functionality, for instance, selecting test input for each class of user of the bus (student, worker and others).
+Seeker: How do i apply equivalence class partitioning criteria
+TOB-STT: The equivalence partitioning criterion divides the input domain in several subsets (partitions) with no intersection and selects a test case for each partition. The idea is that each test case represents all input domain that partition class and, therefore, one test case for each class is enough for this testing criterion. The criterion considers valid and invalid equivalence classes. For example, you can separate invalid and valid inputs into two different subsets or classes.
+Seeker: Can you give me a example of equivalence class partitioning criteria
+TOB-STT: Consider the specification. A program validates a field in the following way: values less than 10 are rejected, values between 10 and 21 are accepted and values greater or equal to 22 are rejected. In this problem, the values 3, 10 and 22 cover all the existing equivalence classes.

@@ -1,0 +1,30 @@
+Seeker: TOB_STT iniciar conversa
+TOB-STT: Hi there! What's your name?
+Seeker: Renan Góes
+TOB-STT: Hello Renan Góes ! Can you tell me your Numero USP?
+Seeker: 8273142
+TOB-STT: Thank you! What's up?
+Seeker: criteria
+TOB-STT: I don't know how to respond this
+Seeker: limit value
+TOB-STT: I don't know how to respond this
+Seeker: what is limit value?
+TOB-STT: I will try to find out.
+Seeker: What is Functional Testing?
+TOB-STT: Functional testing (or Black Box Testing) is a technique whereby the system is tested against the functional requirements/specifications. During the functional testing the internal logic of the system being tested is not known to the tester. Functional testing ensures that the requirements are properly satisfied by the system. This type of testing is not concerned with how processing occurs, but rather, with the results of processing. It simulates actual system usage but does not make any system structure assumptions. Functional testing is normally performed during the levels of System Testing and Acceptance Testing.
+Seeker: what is is test case?
+TOB-STT: I need time to formulate the reply.
+Seeker: What are the criteria for functional testing?
+TOB-STT: Check back later and see if I learn the answer to that one.
+Seeker: How do I partition the equivalence classes?
+TOB-STT: I don't know how to respond this
+Seeker: What can you answer me?
+TOB-STT: I like to chat with my friends.
+Seeker: Hi
+TOB-STT: Hi there!
+Seeker: What is Black Box testing?
+TOB-STT: Functional testing (or Black Box Testing) is a technique whereby the system is tested against the functional requirements/specifications. During the functional testing the internal logic of the system being tested is not known to the tester. Functional testing ensures that the requirements are properly satisfied by the system. This type of testing is not concerned with how processing occurs, but rather, with the results of processing. It simulates actual system usage but does not make any system structure assumptions. Functional testing is normally performed during the levels of System Testing and Acceptance Testing.
+Seeker: Which softwares perform functional tests?
+TOB-STT: I don't know how to respond this
+Seeker: bye
+TOB-STT: TTYL, Renan Góes.

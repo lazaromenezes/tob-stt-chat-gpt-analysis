@@ -1,0 +1,22 @@
+Seeker: TOB_STT iniciar conversa
+TOB-STT: Hi there! What's your name?
+Seeker: Lucas
+TOB-STT: Hello Lucas ! Can you tell me your Numero USP?
+Seeker: 79
+TOB-STT: LXXIX in Roman numerals.
+Seeker: Yes
+TOB-STT: I hear you.
+Seeker: TOB_STT iniciar conversa
+TOB-STT: Hi there! What's your name?
+Seeker: Lucas
+TOB-STT: Hello Lucas ! Can you tell me your Numero USP?
+Seeker: 9763085
+TOB-STT: Thank you! What's up?
+Seeker: Can you help me with something?
+TOB-STT: Ok, tell me. What is your question?
+Seeker: What is software testing?
+TOB-STT: Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenaice.
+Seeker: Ok
+TOB-STT: Ayuh.
+Seeker: Bye
+TOB-STT: TTYL, Lucas.

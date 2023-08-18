@@ -1,0 +1,18 @@
+Seeker: one of the most important limitations of software testing is that testing can show only the presence of failures
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: unit testing
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: unit
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is intregation testing
+TOB-STT: Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenaice.
+Seeker: what is well known
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is is bug
+TOB-STT: A software defect or bug is a condition in a software product which doesn’t meet a software requirement or end-user expectation.
+Seeker: what is error
+TOB-STT: An error is a state of execution of the program which is not expected and may lead to an incorrect result.
+Seeker: what is fault
+TOB-STT: Fault is an incorrect step, process, or data definition in computer program. Fault is the formal name of a bug.
+Seeker: what is failure
+TOB-STT: A failure is a result of the program which is incorrect or not expected. This is caused by an error.

@@ -1,0 +1,54 @@
+Seeker: Hi, good morning
+TOB-STT: Hi there, what do you need?
+Seeker: Tell me about black box
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: What mean black box test
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: Hi, my name is Peter
+TOB-STT: Hello, ask me a question!
+Seeker: Faça um paralelo entre defeitos, erros e falhas
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: Make a parallel between defects, errors and failures
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: What is software testing
+TOB-STT: Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenaice.
+Seeker: What is a failure
+TOB-STT: A failure is a result of the program which is incorrect or not expected. This is caused by an error.
+Seeker: What the difference between failure and error
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: What the difference between defect and error
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is defect
+TOB-STT: A software defect or bug is a condition in a software product which doesn’t meet a software requirement or end-user expectation.
+Seeker: How to apply the limit value analysis criterion
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: limit value analysis criterion
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: What is value analysis criterion
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is limite value
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: Provides examples of using the limit value analysis criterion
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is criterion
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: What is value analysis criterion
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: How do apply the limit value analysis criterion
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: How do I apply equivalence class partitioning criteria
+TOB-STT: The equivalence partitioning criterion divides the input domain in several subsets (partitions) with no intersection and selects a test case for each partition. The idea is that each test case represents all input domain that partition class and, therefore, one test case for each class is enough for this testing criterion. The criterion considers valid and invalid equivalence classes. For example, you can separate invalid and valid inputs into two different subsets or classes.
+Seeker: What the difference between fault and error
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: What is the difference between fault and error
+TOB-STT: Fault is an incorrect step, process, or data definition in computer program. Fault is the formal name of a bug. An error is a state of execution of the program which is not expected and may lead to an incorrect result.
+Seeker: What the difference between failure and error
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: What is the difference between failure and error
+TOB-STT: A failure is a result of the program which is incorrect or not expected. This is caused by an error. An error is a state of execution of the program which is not expected and may lead to an incorrect result.
+Seeker: What the difference between failure and fault
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: What is the difference between failure and error
+TOB-STT: A failure is a result of the program which is incorrect or not expected. This is caused by an error. An error is a state of execution of the program which is not expected and may lead to an incorrect result.
+Seeker: How do I apply the limit value analysis criterion
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?

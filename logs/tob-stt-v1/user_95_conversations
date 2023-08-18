@@ -1,0 +1,10 @@
+Seeker: Hello
+TOB-STT: Hello
+Seeker: How are you
+TOB-STT: Great! How are you?
+Seeker: Great
+TOB-STT: Great!
+Seeker: Could you tell me how fo I apply functional testing
+TOB-STT: It depends of the functional testing criterion used. The most common criteria used in functional testing are equivalence partitioning and boundary-value analysis. Please, ask me how to use equivalence partitioning criterion and/or boundary-value analysis criterion.
+Seeker: Hey
+TOB-STT: Hi there

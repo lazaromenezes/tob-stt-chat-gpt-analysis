@@ -1,0 +1,18 @@
+Seeker: hello
+TOB-STT: Hi there, what do you need?
+Seeker: Can you explain me more about functional testing
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: What is functional testing
+TOB-STT: Functional testing (or Black Box Testing) is a technique whereby the system is tested against the functional requirements/specifications. During the functional testing the internal logic of the system being tested is not known to the tester. Functional testing ensures that the requirements are properly satisfied by the system. This type of testing is not concerned with how processing occurs, but rather, with the results of processing. It simulates actual system usage but does not make any system structure assumptions. Functional testing is normally performed during the levels of System Testing and Acceptance Testing.
+Seeker: What are the functional testing criteria
+TOB-STT: A testing criteria or technique is a set of rules which define the information to be used to create a test set, in order to fulfill some objective. For example, the white-box testing uses the information of the code’s structure to create a test set.
+Seeker: Give me an example of functional testing criteria
+TOB-STT: In functional testing technique, the functionality of an application is tested by providing inputs to generate the desired outputs. Consider a bus ticket purchase system with the following requirement: The discount amount is calculated as follows: students can purchase up to 100 tickets per month, with a 50% discount; workers can buy up to 50 tickets a month, with a 30% discount; other users do not have discount on the ticket price. The functional testing concentrates in selection of test input (or data test) to test this functionality, for instance, selecting test input for each class of user of the bus (student, worker and others).
+Seeker: Name the available functional testing criteria
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: Which are the black box testing techniques
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: List the black box testing techniques, please
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: What is equivalence class partitioning
+TOB-STT: Equivalence partitioning is a functional testing criterion that involves partitioning the input domain into a collection of subsets (or equivalent classes). Data in each partition must behave the same way therefore only one condition needs to be tested. Similarly, if one condition in a partition doesn’t work, then none of the others will work.

@@ -1,0 +1,90 @@
+Seeker: what is software with defect
+TOB-STT: A software defect or bug is a condition in a software product which doesn’t meet a software requirement or end-user expectation.
+Seeker: What is defensive of omission
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: example of omission of functionality
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what types of defects in software
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: Example of Failed Software
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is software failure
+TOB-STT: A failure is a result of the program which is incorrect or not expected. This is caused by an error.
+Seeker: what is software error
+TOB-STT: An error is a state of execution of the program which is not expected and may lead to an incorrect result.
+Seeker: You can give us a sample of failure software
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is software fault
+TOB-STT: Fault is an incorrect step, process, or data definition in computer program. Fault is the formal name of a bug.
+Seeker: which is static defect
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what would be software with the default of
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is omission software
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is software omission
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is software failure omission
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is meant by omission of functionality
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: omission de functionality
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is omission software
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: What is ambiguity error
+TOB-STT: An error is a state of execution of the program which is not expected and may lead to an incorrect result.
+Seeker: what is definite of omission
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is omission error
+TOB-STT: An error is a state of execution of the program which is not expected and may lead to an incorrect result.
+Seeker: What is a feature omission error
+TOB-STT: An error is a state of execution of the program which is not expected and may lead to an incorrect result.
+Seeker: You can give the example of omission error
+TOB-STT: An example of an error could be the access of some unintended position of a vector, which would case a segmentation fault and stop the execution of the program.
+Seeker: What is a strange information error
+TOB-STT: An error is a state of execution of the program which is not expected and may lead to an incorrect result.
+Seeker: What is a strange software information error
+TOB-STT: An error is a state of execution of the program which is not expected and may lead to an incorrect result.
+Seeker: ou can give the example of information error
+TOB-STT: An example of an error could be the access of some unintended position of a vector, which would case a segmentation fault and stop the execution of the program.
+Seeker: What is a software inconsistency defect
+TOB-STT: A software defect or bug is a condition in a software product which doesn’t meet a software requirement or end-user expectation.
+Seeker: what is in fact wrong with any software
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is a strange information defect in a software
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: which is a defect of ambiguity in a software
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: which is a defect of ambiguity in the requirements document
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: What is the difference between fault and error
+TOB-STT: Fault is an incorrect step, process, or data definition in computer program. Fault is the formal name of a bug. An error is a state of execution of the program which is not expected and may lead to an incorrect result.
+Seeker: Can you give me an example of failure
+TOB-STT:
+Seeker: Can you give me an example of fault
+TOB-STT: A defect is an incorrect data definition. In your code, it could be an access of inexistent position in a vector, for instance.
+Seeker: Can you give me an example of fault
+TOB-STT: A defect is an incorrect data definition. In your code, it could be an access of inexistent position in a vector, for instance.
+Seeker: Can you give me an example of error
+TOB-STT:
+Seeker: Can you give me a example of erro no software
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: What is the difference between failure, error, defect
+TOB-STT: A software defect or bug is a condition in a software product which doesn’t meet a software requirement or end-user expectation.
+Seeker: What is the difference between fault and error and defect
+TOB-STT: Fault is an incorrect step, process, or data definition in computer program. Fault is the formal name of a bug. A software defect or bug is a condition in a software product which doesn’t meet a software requirement or end-user expectation.
+Seeker: What is the difference between fault and error
+TOB-STT: Fault is an incorrect step, process, or data definition in computer program. Fault is the formal name of a bug. An error is a state of execution of the program which is not expected and may lead to an incorrect result.
+Seeker: Can you give me a example of error
+TOB-STT: Suppose you have a program that calculates the factorial of some input integer, but this program uses integers instead of long integers. An error would occur if you input some number that would cause an overflow in the program.
+Seeker: Can you give me a example of fault
+TOB-STT: A defect is an incorrect data definition. In your code, it could be an access of inexistent position in a vector, for instance.
+Seeker: Can you give me a example of defect
+TOB-STT: Suppose you have a program that, by the software requirements, should accept names with up to 20 digits, but the software developer reserved only 15 digits in the database. That is a defect in the software definition and can lead to an error.
+Seeker: Can you give me a example of defect omission
+TOB-STT: Suppose you have a program that, by the software requirements, should accept names with up to 20 digits, but the software developer reserved only 15 digits in the database. That is a defect in the software definition and can lead to an error.
+Seeker: What is the difference between omission and ambiguity
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently? Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: How do i apply equivalence cdefect omission
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?

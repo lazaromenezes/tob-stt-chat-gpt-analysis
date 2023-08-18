@@ -1,0 +1,38 @@
+Seeker: test case
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: Error
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: What is Error
+TOB-STT: An error is a state of execution of the program which is not expected and may lead to an incorrect result.
+Seeker: What Is is software testing
+TOB-STT: Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenaice.
+Seeker: what is is software fault
+TOB-STT: Fault is an incorrect step, process, or data definition in computer program. Fault is the formal name of a bug.
+Seeker: What Is is a Software Error
+TOB-STT: An error is a state of execution of the program which is not expected and may lead to an incorrect result.
+Seeker: What Is is a Software failure
+TOB-STT: A failure is a result of the program which is incorrect or not expected. This is caused by an error.
+Seeker: what is a test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: what is a oracle
+TOB-STT: An oracle is any human or mechanical agent that decides whether a program behaved correctly in a given test and accordingly results in a verdict of “pass” or “fail.” There exist many different kinds of oracles; for example, unambiguous requirements specifications, behavioral models, and code annotations. Automation of mechanized oracles can be difficult and expensive.
+Seeker: what is a oracle problem
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is a white-box testing
+TOB-STT: Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenaice.
+Seeker: what is a black-box testing
+TOB-STT: Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenaice.
+Seeker: unit testing
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is a unit testing
+TOB-STT: Unit testing verifies the functioning in isolation of software elements that are separately testable. Depending on the context, these could be the individual subprograms or a larger component made of highly cohesive units. Typically, unit testing occurs with access to the code being tested and with the support of supporting tools. The programmers who wrote the code typically, but not always, conduct unit testing.
+Seeker: what is a integration testing
+TOB-STT: Integration testing is the process of verifying the interactions among software components. Classical integration testing strategies, such as top-down and bottom-up, are often used with hierarchically structured software.
+Seeker: what is a test selection
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is a test selection criteria
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is a test selection criterion
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is a functional testing
+TOB-STT: Functional testing (or Black Box Testing) is a technique whereby the system is tested against the functional requirements/specifications. During the functional testing the internal logic of the system being tested is not known to the tester. Functional testing ensures that the requirements are properly satisfied by the system. This type of testing is not concerned with how processing occurs, but rather, with the results of processing. It simulates actual system usage but does not make any system structure assumptions. Functional testing is normally performed during the levels of System Testing and Acceptance Testing.

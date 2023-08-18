@@ -1,0 +1,74 @@
+Seeker: hi
+TOB-STT: Welcome!
+Seeker: Who are you
+TOB-STT: I am TOB-STT, a software testing teaching assistant!
+Seeker: what can you do
+TOB-STT: I am here to help you with software testing. I can answer some question you ask me about that topic.
+Seeker: what is test4
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is test
+TOB-STT: A test, in software testing, is the act of performing some assurance of both the correctness of a software and its validation of the project requisistes.
+Seeker: teste
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: test
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: o que é teste
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: bye
+TOB-STT: See you!
+Seeker: see you
+TOB-STT: Bye bye!
+Seeker: bye bye
+TOB-STT: Bye bye!
+Seeker: What is a error
+TOB-STT: An error is a state of execution of the program which is not expected and may lead to an incorrect result.
+Seeker: what is a fault
+TOB-STT: Fault is an incorrect step, process, or data definition in computer program. Fault is the formal name of a bug.
+Seeker: give a exempla
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: give me a example
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: Can you give me a example of equivalence class partitioning criteria
+TOB-STT: Consider the specification. A program validates a field in the following way: values less than 10 are rejected, values between 10 and 21 are accepted and values greater or equal to 22 are rejected. In this problem, the values 3, 10 and 22 cover all the existing equivalence classes.
+Seeker: waht is software testing
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is software testing
+TOB-STT: Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenaice.
+Seeker: fault
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is fault
+TOB-STT: Fault is an incorrect step, process, or data definition in computer program. Fault is the formal name of a bug.
+Seeker: what is error
+TOB-STT: An error is a state of execution of the program which is not expected and may lead to an incorrect result.
+Seeker: what is Failure
+TOB-STT: A failure is a result of the program which is incorrect or not expected. This is caused by an error.
+Seeker: what is teste case
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: what is teste coverage
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is testing coverage
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is oracle
+TOB-STT: An oracle is any human or mechanical agent that decides whether a program behaved correctly in a given test and accordingly results in a verdict of “pass” or “fail.” There exist many different kinds of oracles; for example, unambiguous requirements specifications, behavioral models, and code annotations. Automation of mechanized oracles can be difficult and expensive.
+Seeker: what id oracle problem
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is the aim of testing
+TOB-STT: Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenaice.
+Seeker: what is unit testing
+TOB-STT: Unit testing verifies the functioning in isolation of software elements that are separately testable. Depending on the context, these could be the individual subprograms or a larger component made of highly cohesive units. Typically, unit testing occurs with access to the code being tested and with the support of supporting tools. The programmers who wrote the code typically, but not always, conduct unit testing.
+Seeker: what is a test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: what is test selection criteria
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is test criterion
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is equivalence partitioning
+TOB-STT: Equivalence partitioning is a functional testing criterion that involves partitioning the input domain into a collection of subsets (or equivalent classes). Data in each partition must behave the same way therefore only one condition needs to be tested. Similarly, if one condition in a partition doesn’t work, then none of the others will work.
+Seeker: test criterion
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is criterion
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is mutant
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?

@@ -1,0 +1,30 @@
+Seeker: TOB_STT iniciar conversa
+TOB-STT: Hi there! What's your name?
+Seeker: TOB_STT iniciar conversa
+TOB-STT: Hi there! What's your name?
+Seeker: Victor
+TOB-STT: Hello Victor ! Can you tell me your Numero USP?
+Seeker: 8531491
+TOB-STT: Thank you! What's up?
+Seeker: What is a equivalence class?
+TOB-STT: I will try to find out.
+Seeker: what is class?
+TOB-STT: You tell me.
+Seeker: What are the partitioning criteria?
+TOB-STT: Try searching the Wikipedia.
+Seeker: What is a functional test?
+TOB-STT: Interesting question.
+Seeker: what is a fault?
+TOB-STT: Fault is an incorrect step, process, or data definition in computer program. Fault is the formal name of a bug.
+Seeker: what is a functional testing criteria?
+TOB-STT: Functional testing (or Black Box Testing) is a technique whereby the system is tested against the functional requirements/specifications. During the functional testing the internal logic of the system being tested is not known to the tester. Functional testing ensures that the requirements are properly satisfied by the system. This type of testing is not concerned with how processing occurs, but rather, with the results of processing. It simulates actual system usage but does not make any system structure assumptions. Functional testing is normally performed during the levels of System Testing and Acceptance Testing.
+Seeker: what types of test exist now?
+TOB-STT: Hi there!
+Seeker: hello there
+TOB-STT: Hi there!
+Seeker: what is equivalence class?
+TOB-STT: There might be more than one.
+Seeker: what is the equivalence class partitioning criteria?
+TOB-STT: Have you tried a web search?
+Seeker: what is equivalence class partitioning criteria?
+TOB-STT: Equivalence partitioning is a functional testing criterion that involves partitioning the input domain into a collection of subsets (or equivalent classes). Data in each partition must behave the same way therefore only one condition needs to be tested. Similarly, if one condition in a partition doesn’t work, then none of the others will work.

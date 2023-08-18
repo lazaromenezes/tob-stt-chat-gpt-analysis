@@ -1,0 +1,88 @@
+Seeker: hello tob
+TOB-STT: Welcome!
+Seeker: What is inspection of software
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: What is Software Inspection
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: What did you know
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: Can you answer me something
+TOB-STT: Ok, tell me. What is your question?
+Seeker: Can you explain what is inspection
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: What is inspection
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: What is considered defect of omission
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: What is software failure
+TOB-STT: A failure is a result of the program which is incorrect or not expected. This is caused by an error.
+Seeker: software fault
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: What is software falt
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: fault
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: What is software fault
+TOB-STT: Fault is an incorrect step, process, or data definition in computer program. Fault is the formal name of a bug.
+Seeker: error
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: What is error
+TOB-STT: An error is a state of execution of the program which is not expected and may lead to an incorrect result.
+Seeker: What is a sucessful test
+TOB-STT: A test, in software testing, is the act of performing some assurance of both the correctness of a software and its validation of the project requisistes.
+Seeker: what is software testing
+TOB-STT: Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenaice.
+Seeker: 44/5000 what are the limitations of software testing
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what are the limitations of software testing
+TOB-STT: Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenaice.
+Seeker: The problem of finding all failures in a program is undecidable
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: The problem of finding all failures in a program is undecidable
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: dynamic verification
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is dynamic verification
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: failure
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is falilure
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is failure
+TOB-STT: A failure is a result of the program which is incorrect or not expected. This is caused by an error.
+Seeker: what is test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: Software test
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is software test
+TOB-STT: A test, in software testing, is the act of performing some assurance of both the correctness of a software and its validation of the project requisistes.
+Seeker: software test is dynamic
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: dynamic
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: strutural testing
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is strutural testing
+TOB-STT: Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenaice.
+Seeker: What is strutural testing
+TOB-STT: Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenaice.
+Seeker: what is functional testing
+TOB-STT: Functional testing (or Black Box Testing) is a technique whereby the system is tested against the functional requirements/specifications. During the functional testing the internal logic of the system being tested is not known to the tester. Functional testing ensures that the requirements are properly satisfied by the system. This type of testing is not concerned with how processing occurs, but rather, with the results of processing. It simulates actual system usage but does not make any system structure assumptions. Functional testing is normally performed during the levels of System Testing and Acceptance Testing.
+Seeker: Structural testing
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: unit test
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: What is unit testing
+TOB-STT: Unit testing verifies the functioning in isolation of software elements that are separately testable. Depending on the context, these could be the individual subprograms or a larger component made of highly cohesive units. Typically, unit testing occurs with access to the code being tested and with the support of supporting tools. The programmers who wrote the code typically, but not always, conduct unit testing.
+Seeker: What is integration testing
+TOB-STT: Integration testing is the process of verifying the interactions among software components. Classical integration testing strategies, such as top-down and bottom-up, are often used with hierarchically structured software.
+Seeker: What is test selection criteria
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: What is test selection
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is test selection criterion
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: can you give me a example of equivalence class partitioning criteria
+TOB-STT: Here is an example of an application of equivalence partitioning. Consider the following specification: if you are below 18 years old, you are too young to be insured. If you are between 18 and 30 years old, you will get a 20% discount, but you are not elegible for an insurance if you are past 30. In this problem, the ages 18,.., 30 are in the same equivalence class
+Seeker: can you give me a example of selection testing criteria
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?

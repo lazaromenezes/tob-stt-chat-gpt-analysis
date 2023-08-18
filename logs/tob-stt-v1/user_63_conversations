@@ -1,0 +1,100 @@
+Seeker: TOB_STT iniciar conversa
+TOB-STT: Hi there! What's your name?
+Seeker: TOB_STT iniciar conversa
+TOB-STT: Hi there! What's your name?
+Seeker: TOB_STT iniciar conversa
+TOB-STT: Hi there! What's your name?
+Seeker: HI, my name is Leo
+TOB-STT: I don't know how to respond this
+Seeker: TOB_STT iniciar conversa
+TOB-STT: Hi there! What's your name?
+Seeker: My name is Leo
+TOB-STT: I don't know how to respond this
+Seeker: TOB_STT iniciar conversa
+TOB-STT: Hi there! What's your name?
+Seeker: Leo Natan
+TOB-STT: I don't know how to respond this
+Seeker: TOB_STT iniciar conversa
+TOB-STT: Hi there! What's your name?
+Seeker: HI
+TOB-STT: Hi there!
+Seeker: My name is Leo
+TOB-STT: I don't know how to respond this
+Seeker: LEO
+TOB-STT: I don't know how to respond this
+Seeker: lUCAS
+TOB-STT: I don't know how to respond this
+Seeker: YOU IS MANY CRAZY
+TOB-STT: Do you mind if I tell other people you say I am MANY CRAZY.
+Seeker: HAHHA
+TOB-STT: I don't know how to respond this
+Seeker: hehehe
+TOB-STT: I don't know how to respond this
+Seeker: TOB_STT iniciar conversa
+TOB-STT: Hi there! What's your name?
+Seeker: hi
+TOB-STT: Hi there!
+Seeker: what is software testing?
+TOB-STT: Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenaice.
+Seeker: What Is the differemce between fault and error?
+TOB-STT: Is that a rhetorical question?
+Seeker: What Is the difference between fault and error?
+TOB-STT: A fault (or defect) is an incorrect step, process, or data definition in source code, which may lead the program to an error, which is a unexpected state of execution that can cause a failure. If you're still confused, ask me what an error is.
+Seeker: TOB_STT iniciar conversa
+TOB-STT: Hi there! What's your name?
+Seeker: Hi
+TOB-STT: Hi there!
+Seeker: What is software testing?
+TOB-STT: Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenaice.
+Seeker: What Is the differemce between fault and error?
+TOB-STT: Have you tried searching the web?
+Seeker: TOB_STT iniciar conversa
+TOB-STT: Hi there! What's your name?
+Seeker: Hi
+TOB-STT: Hi there!
+Seeker: What is software testing?
+TOB-STT: Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenaice.
+Seeker: what is the difference between fault and error?
+TOB-STT: A fault (or defect) is an incorrect step, process, or data definition in source code, which may lead the program to an error, which is a unexpected state of execution that can cause a failure. If you're still confused, ask me what an error is.
+Seeker: How do I apply equivalence class partitioning criteria?
+TOB-STT: The equivalence partitioning criterion divides the input domain in several subsets (partitions) with no intersection and selects a test case for each partition. The idea is that each test case represents all input domain that partition class and, therefore, one test case for each class is enough for this testing criterion. The criterion considers valid and invalid equivalence classes. For example, you can separate invalid and valid inputs into two different subsets or classes.
+Seeker: Can you give me an example of equivalence class partitioning criteria?
+TOB-STT: Here is an example of an application of equivalence class partitioning. Consider the following specification: if you are below 18 years old, you are too young to be insured. If you are between 18 and 30 years old, you will get a 20% discount, but you are not elegible for an insurance if you are past 30. In this problem, the ages 18,.., 30 are in the same equivalence class
+Seeker: TOB_STT iniciar conversa
+TOB-STT: Hi there! What's your name?
+Seeker: TOB_STT iniciar conversa
+TOB-STT: Hi there! What's your name?
+Seeker: hi
+TOB-STT: Hi there!
+Seeker: what is software testing?
+TOB-STT: Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenaice.
+Seeker: what is difference between default and error?
+TOB-STT: I would look into the web for that knowledge.
+Seeker: what is difference between fault and error?
+TOB-STT: I will search for it.
+Seeker: what is difference between fault and error?
+TOB-STT: I would look into the web for that knowledge.
+Seeker: what is difference between error and mistake?
+TOB-STT: I have never been asked that before.
+Seeker: TOB_STT iniciar conversa
+TOB-STT: Hi there! What's your name?
+Seeker: hi
+TOB-STT: Hi there!
+Seeker: what is software testing?
+TOB-STT: Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenaice.
+Seeker: what is the difference between fault and error?
+TOB-STT: A fault (or defect) is an incorrect step, process, or data definition in source code, which may lead the program to an error, which is a unexpected state of execution that can cause a failure. If you're still confused, ask me what an error is.
+Seeker: how to I apply equivalence class partitioning criteria?
+TOB-STT: The equivalence partitioning criterion divides the input domain in several subsets (partitions) with no intersection and selects a test case for each partition. The idea is that each test case represents all input domain that partition class and, therefore, one test case for each class is enough for this testing criterion. The criterion considers valid and invalid equivalence classes. For example, you can separate invalid and valid inputs into two different subsets or classes.
+Seeker: Can you give me an example of equivalence class partitioning criteria?
+TOB-STT: Here is an example of an application of equivalence class partitioning. Consider the following specification: if you are below 18 years old, you are too young to be insured. If you are between 18 and 30 years old, you will get a 20% discount, but you are not elegible for an insurance if you are past 30. In this problem, the ages 18,.., 30 are in the same equivalence class
+Seeker: TOB_STT iniciar conversa
+TOB-STT: Hi there! What's your name?
+Seeker: what is cause effect graph ?
+TOB-STT: Have you tried searching the web?
+Seeker: TOB_STT iniciar conversa
+TOB-STT: Hi there! What's your name?
+Seeker: TOB_STT iniciar conversa
+TOB-STT: Hi there! What's your name?
+Seeker: TOB_STT iniciar conversa
+TOB-STT: Hi there! What's your name?

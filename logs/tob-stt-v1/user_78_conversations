@@ -1,0 +1,54 @@
+Seeker: TOB_STT iniciar conversa
+TOB-STT: I don't know how to respond this
+Seeker: Hello
+TOB-STT: I don't know how to respond this
+Seeker: What is software testing
+TOB-STT: Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenaice.
+Seeker: How are you?
+TOB-STT: I don't know how to respond this
+Seeker: hjk hkj h hk hk h
+TOB-STT: I don't know how to respond this
+Seeker: jfdsla jfldsa jklfd sjalf djsla fjdlsa jflds ajfklds ajlf dsjkla
+TOB-STT: I don't know how to respond this
+Seeker: jfkdl jaslkf jdslka jfdklsa jfl jasl fjdkls ajfdsaf djsakl fjdlsa jflds ajflkd sajfkld sjalf djsla fjldsa jflds ajklf dsjaklf jdsla fjldsa jflds ajklf dsjalkf jdsla fjdls ajfld sjaklf djsla fdsla jflds jkfld sjalf djsal fjdksla fjdklsa jflkds ajlkfd sjalf djsla fjdlska jfdkls jflkdsa
+TOB-STT: I don't know how to respond this
+Seeker: Eu acho que esse site tá muito bonito
+TOB-STT: I don't know how to respond this
+Seeker: TOB_STT iniciar conversa
+TOB-STT: I don't know how to respond this
+Seeker: TOB_STT iniciar conversa
+TOB-STT: I don't know how to respond this
+Seeker: TOB_STT iniciar conversa
+TOB-STT: I don't know how to respond this
+Seeker: What is software testing
+TOB-STT: Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenaice.
+Seeker: What do you know about equivalence partitioning classes
+TOB-STT: I don't know how to respond this
+Seeker: Could you tell me about equivalent partitioning class
+TOB-STT: I don't know how to respond this
+Seeker: What is a bug
+TOB-STT: A software defect or bug is a condition in a software product which doesn’t meet a software requirement or end-user expectation.
+Seeker: Can you tell me what is a bug
+TOB-STT: A software defect or bug is a condition in a software product which doesn’t meet a software requirement or end-user expectation.
+Seeker: What is equivalence partitioning classes
+TOB-STT: I don't know how to respond this
+Seeker: What is an equivalence class
+TOB-STT: An equivalency class represents a set of valid and invalid states for the input conditions. For example, if your input must be a number N between 1 and 100, then one (invalid) equivalency class is the set of numbers less than one, another (invalid) equivalency class is the set of numbers greater than 100 and the third (valid) is the set of numbers between 1 and 100.
+Seeker: equivalency class
+TOB-STT: I don't know how to respond this
+Seeker: What is equivalence partitioning classes criteria
+TOB-STT: I don't know how to respond this
+Seeker: What is equivalence partitioning classes criterion
+TOB-STT: I don't know how to respond this
+Seeker: What is a white-box testing
+TOB-STT: Structural testing (or White-Box testing) is a technique in which tests are derived from the knowledge of the software's structure or internal implementation. That way, the testing professional is able to check if a specific part of the code is correct. Unit testing is an instance of structural testing.
+Seeker: What is a defect
+TOB-STT: A software defect or bug is a condition in a software product which doesn’t meet a software requirement or end-user expectation.
+Seeker: What is boundarie value analysis
+TOB-STT: I don't know how to respond this
+Seeker: What is boundarie-value analysis criteria
+TOB-STT: I don't know how to respond this
+Seeker: What is limit value analysis technique
+TOB-STT: Boundary value analysis is a functional testing criterion which test data are chosen on or near the boundaries of the input domain of variables, with the underlying rationale that many faults tend to concentrate near the extreme values of inputs. An extension of this technique is robustness testing, wherein test cases are also chosen outside the input domain of variables to test program robustness in processing unexpected or erroneous inputs.
+Seeker: What is equivalence class partitioning technique
+TOB-STT: Equivalence partitioning is a functional testing criterion that involves partitioning the input domain into a collection of subsets (or equivalent classes). Data in each partition must behave the same way therefore only one condition needs to be tested. Similarly, if one condition in a partition doesn’t work, then none of the others will work.

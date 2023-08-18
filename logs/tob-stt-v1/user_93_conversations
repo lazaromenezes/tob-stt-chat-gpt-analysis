@@ -1,0 +1,84 @@
+Seeker: TOB_STT iniciar conversa
+TOB-STT: I don't know how to respond this
+Seeker: hello
+TOB-STT: I don't know how to respond this
+Seeker: what is software testing activity
+TOB-STT: I don't know how to respond this
+Seeker: what is software testing?
+TOB-STT: Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenaice.
+Seeker: what is software testing activity?
+TOB-STT: I don't know how to respond this
+Seeker: why?
+TOB-STT: I don't know how to respond this
+Seeker: hi
+TOB-STT: Hi there
+Seeker: what`s software testing
+TOB-STT: I can't answer that.. Try asking me differently
+Seeker: what`s software testing
+TOB-STT: I can't answer that.. Try asking me differently
+Seeker: what`s software testing
+TOB-STT: I can't answer that.. Try asking me differently
+Seeker: what is software testing
+TOB-STT: Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenaice.
+Seeker: what is software testing activity
+TOB-STT: Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenaice.
+Seeker: what`s software testing activity
+TOB-STT: I can't answer that.. Try asking me differently
+Seeker: how to test a software
+TOB-STT: I can't answer that.. Try asking me differently
+Seeker: talk about software testing activity
+TOB-STT: I can't answer that.. Try asking me differently
+Seeker: what is fault
+TOB-STT: Fault is an incorrect step, process, or data definition in computer program. Fault is the formal name of a bug.
+Seeker: What is the difference fault failure and mistake
+TOB-STT: A mistake is a human action that inserts a fault (or defect) into the source code, for instance, a typo is a mistake.
+Seeker: What is the difference between fault and mistake
+TOB-STT: Fault is an incorrect step, process, or data definition in computer program. Fault is the formal name of a bug. A mistake is a human action that inserts a fault (or defect) into the source code, for instance, a typo is a mistake.
+Seeker: how are you
+TOB-STT: Great! How are you?
+Seeker: i am fine
+TOB-STT: Great!
+Seeker: hi
+TOB-STT: Hey!
+Seeker: how are you
+TOB-STT: Great! How are you?
+Seeker: i`m fine
+TOB-STT: Great!
+Seeker: Can you give me a example of functional testing criteria
+TOB-STT: In functional testing technique, the functionality of an application is tested by providing inputs to generate the desired outputs. Consider a bus ticket purchase system with the following requirement: The discount amount is calculated as follows: students can purchase up to 100 tickets per month, with a 50% discount; workers can buy up to 50 tickets a month, with a 30% discount; other users do not have discount on the ticket price. The functional testing concentrates in selection of test input (or data test) to test this functionality, for instance, selecting test input for each class of user of the bus (student, worker and others).
+Seeker: how do i apply equivalence class partitioning criteria
+TOB-STT: The equivalence partitioning criterion divides the input domain in several subsets (partitions) with no intersection and selects a test case for each partition. The idea is that each test case represents all input domain that partition class and, therefore, one test case for each class is enough for this testing criterion. The criterion considers valid and invalid equivalence classes. For example, you can separate invalid and valid inputs into two different subsets or classes.
+Seeker: Can you give me a example of equivalence class partitioning criteria
+TOB-STT: Here is an example of an application of equivalence class partitioning. Consider the following specification: one of the fields of a form is a text box that accepts numeric values from 18 to 25. For this problem, a value that belongs to an invalid equivalence class is 17, whereas a value belonging to a valid equivalence class is, for instance, 20.
+Seeker: comment on the functional test criteria
+TOB-STT: I can't answer that.. Try asking me differently
+Seeker: good bye
+TOB-STT: Nice talking to you!
+Seeker: by
+TOB-STT: I can't answer that.. Try asking me differently
+Seeker: bye
+TOB-STT: See you!
+Seeker: tomorrow
+TOB-STT: I can't answer that.. Try asking me differently
+Seeker: hello
+TOB-STT: Hey!
+Seeker: how are you
+TOB-STT: Great! How are you?
+Seeker: i`m fine
+TOB-STT: Great!
+Seeker: and you
+TOB-STT: I can't answer that.. Try asking me differently
+Seeker: let us talk about software testint activity
+TOB-STT: I can't answer that.. Try asking me differently
+Seeker: let us talk about software testing activity
+TOB-STT: I can't answer that.. Try asking me differently
+Seeker: let us talk about software testing
+TOB-STT: I can't answer that.. Try asking me differently
+Seeker: what is boundary value analysis
+TOB-STT: Boundary value analysis is a functional testing criterion which test data are chosen on or near the boundaries of the input domain of variables, with the underlying rationale that many faults tend to concentrate near the extreme values of inputs. An extension of this technique is robustness testing, wherein test cases are also chosen outside the input domain of variables to test program robustness in processing unexpected or erroneous inputs.
+Seeker: What is the difference between boundary value analysis and equivalence class partitioning
+TOB-STT: Boundary value analysis is a functional testing criterion which test data are chosen on or near the boundaries of the input domain of variables, with the underlying rationale that many faults tend to concentrate near the extreme values of inputs. An extension of this technique is robustness testing, wherein test cases are also chosen outside the input domain of variables to test program robustness in processing unexpected or erroneous inputs. Equivalence partitioning is a functional testing criterion that involves partitioning the input domain into a collection of subsets (or equivalent classes). Data in each partition must behave the same way therefore only one condition needs to be tested. Similarly, if one condition in a partition doesn’t work, then none of the others will work.
+Seeker: What is the difference between boundary value analysis and equivalence partitioning
+TOB-STT: Boundary value analysis is a functional testing criterion which test data are chosen on or near the boundaries of the input domain of variables, with the underlying rationale that many faults tend to concentrate near the extreme values of inputs. An extension of this technique is robustness testing, wherein test cases are also chosen outside the input domain of variables to test program robustness in processing unexpected or erroneous inputs. Equivalence partitioning is a functional testing criterion that involves partitioning the input domain into a collection of subsets (or equivalent classes). Data in each partition must behave the same way therefore only one condition needs to be tested. Similarly, if one condition in a partition doesn’t work, then none of the others will work.
+Seeker: what is State Transition Testing
+TOB-STT: Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenaice.

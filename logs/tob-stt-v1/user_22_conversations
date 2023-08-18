@@ -1,0 +1,22 @@
+Seeker: TOB_STT iniciar conversa
+TOB-STT: Hi there! What's your name?
+Seeker: hi
+TOB-STT: Hi there!
+Seeker: can you give me an example about equivalence class?
+TOB-STT: I don't know how to respond this
+Seeker: How do i apply equivalence class partitionig criteria?
+TOB-STT: I don't know how to respond this
+Seeker: Can you give me an example of functional testing criteria?
+TOB-STT: In functional testing technique, the functionality of an application is tested by providing inputs to generate the desired outputs. Consider a bus ticket purchase system with the following requirement: The discount amount is calculated as follows: students can purchase up to 100 tickets per month, with a 50% discount; workers can buy up to 50 tickets a month, with a 30% discount; other users do not have discount on the ticket price. The functional testing concentrates in selection of test input (or data test) to test this functionality, for instance, selecting test input for each class of user of the bus (student, worker and others).
+Seeker: How do I apply equivalence class partitioning criteria?
+TOB-STT: The equivalence partitioning criterion divides the input domain in several subsets (partitions) with no intersection and selects a test case for each partition. The idea is that each test case represents all input domain that partition class and, therefore, one test case for each class is enough for this testing criterion. The criterion considers valid and invalid equivalence classes. For example, you can separate invalid and valid inputs into two different subsets or classes.
+Seeker: What is an input domain?
+TOB-STT: The input domain is a set of values that can be used to execute a certain program. The input domain specifies all the possible sets of values.
+Seeker: Can you give me an example of an input domain?
+TOB-STT: I don't know how to respond this
+Seeker: can you list the functional testing s criterias?
+TOB-STT: Ok, tell me. What is your question? I don't know how to respond this
+Seeker: Can you list all the criterias of functional testing?
+TOB-STT: Ok, tell me. What is your question? I don't know how to respond this
+Seeker: What is limit value?
+TOB-STT: I haven't heard of limit value.

@@ -1,0 +1,68 @@
+Seeker: What is a test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: What is the difference between an error and a mistake
+TOB-STT: An error is a state of execution of the program which is not expected and may lead to an incorrect result. A mistake is a human action that inserts a fault (or defect) into the source code, for instance, a typo is a mistake.
+Seeker: What kind of information is used in functional testing
+TOB-STT: The functional (or black-box) testing requires the specification of the product, and only that. With this document, the test data can be created, and once the implementation of the program is complete, the testing activity can begin.
+Seeker: How do I apply equivalence partitioning
+TOB-STT: The equivalence partitioning criterion divides the input domain in several subsets (partitions) with no intersection and selects a test case for each partition. The idea is that each test case represents all input domain that partition class and, therefore, one test case for each class is enough for this testing criterion. The criterion considers valid and invalid equivalence classes. For example, you can separate invalid and valid inputs into two different subsets or classes.
+Seeker: Comment on software testing activity
+TOB-STT: Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenaice.
+Seeker: very
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: Give me an example of boundarie-value analysis
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: Give me an example of boundarie value analysis
+TOB-STT:
+Seeker: Give me an example of limit value analysis
+TOB-STT: Suppose you have a program in which the user has to create a password with length between 6 and 12. So the test cases generated for this program, using the boundary value analysis technique, would be for passwords with lengths 5, 6, 12 and 13.
+Seeker: Give me an example of limit value analysis
+TOB-STT:
+Seeker: Give me an example of limit value analysis
+TOB-STT: Suppose you have a program in which the user has to create a password with length between 6 and 12. So the test cases generated for this program, using the boundary value analysis technique, would be for passwords with lengths 5, 6, 12 and 13.
+Seeker: Give me an example of limit value analysis
+TOB-STT: Suppose you have a program in which the user has to create a password with length between 6 and 12. So the test cases generated for this program, using the boundary value analysis technique, would be for passwords with lengths 5, 6, 12 and 13.
+Seeker: Give me an example of limit value analysis
+TOB-STT: Suppose you have a program in which the user has to create a password with length between 6 and 12. So the test cases generated for this program, using the boundary value analysis technique, would be for passwords with lengths 5, 6, 12 and 13.
+Seeker: How do I apply limit value analysis
+TOB-STT: The boundary-value testing criterion determines the boundaries for input values and selects the extremes of the boundary to generate test cases. For instance, if a program's valid input is a positive number less than 10, then the following test cases will be selected in order to test the boundaries: 0, 1, -1, 10, 9 and 11.
+Seeker: How do I apply equivalence partitioning
+TOB-STT: The equivalence partitioning criterion divides the input domain in several subsets (partitions) with no intersection and selects a test case for each partition. The idea is that each test case represents all input domain that partition class and, therefore, one test case for each class is enough for this testing criterion. The criterion considers valid and invalid equivalence classes. For example, you can separate invalid and valid inputs into two different subsets or classes.
+Seeker: How do I apply limit value partitioning
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: How do I apply equivalence analysis
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: How do I apply limit value analysis
+TOB-STT: The boundary-value testing criterion determines the boundaries for input values and selects the extremes of the boundary to generate test cases. For instance, if a program's valid input is a positive number less than 10, then the following test cases will be selected in order to test the boundaries: 0, 1, -1, 10, 9 and 11.
+Seeker: Give me an example of equivalence partitioning
+TOB-STT: Here is an example of an application of equivalence partitioning. Consider the following specification: if you are below 18 years old, you are too young to be insured. If you are between 18 and 30 years old, you will get a 20% discount, but you are not elegible for an insurance if you are past 30. In this problem, the ages 18,.., 30 are in the same equivalence class
+Seeker: i need to know what is software testing
+TOB-STT: Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenaice.
+Seeker: how can i test a software
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: Can you explain me about test cases
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: can you explain to me about test cases
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what are the limitations of software testing
+TOB-STT: Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenaice.
+Seeker: what is your purpose
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is boundarie value analysis
+TOB-STT: Boundary value analysis is a functional testing criterion which test data are chosen on or near the boundaries of the input domain of variables, with the underlying rationale that many faults tend to concentrate near the extreme values of inputs. An extension of this technique is robustness testing, wherein test cases are also chosen outside the input domain of variables to test program robustness in processing unexpected or erroneous inputs.
+Seeker: give me an example of boundarie-value analysis
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: give me an example of boundary value
+TOB-STT:
+Seeker: give me an example of mistake
+TOB-STT:
+Seeker: give me an example of equivalence partitioning
+TOB-STT: Here is an example of an application of equivalence partitioning. Consider the following specification: if you are below 18 years old, you are too young to be insured. If you are between 18 and 30 years old, you will get a 20% discount, but you are not elegible for an insurance if you are past 30. In this problem, the ages 18,.., 30 are in the same equivalence class
+Seeker: another example
+TOB-STT:
+Seeker: give me another example
+TOB-STT:
+Seeker: give me an example of boundary value
+TOB-STT:
+Seeker: give example equivalence partitioning
+TOB-STT: Consider the specification. A program validates a field in the following way: values less than 10 are rejected, values between 10 and 21 are accepted and values greater or equal to 22 are rejected. In this problem, the values 3, 10 and 22 cover all the existing equivalence classes.

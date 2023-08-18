@@ -1,0 +1,16 @@
+Seeker: TOB_STT iniciar conversa
+TOB-STT: Hi there! What's your name?
+Seeker: A
+TOB-STT: Hello A ! Can you tell me your Numero USP?
+Seeker: 1
+TOB-STT: I don't know how to respond this
+Seeker: TOB_STT iniciar conversa
+TOB-STT: Hi there! What's your name?
+Seeker: a
+TOB-STT: Hello a ! Can you tell me your Numero USP?
+Seeker: 12345
+TOB-STT: Thank you! What's up?
+Seeker: debug name
+TOB-STT: a
+Seeker: debug nusp
+TOB-STT: 12345

@@ -1,0 +1,48 @@
+Seeker: TOB_STT iniciar conversa
+TOB-STT: Hi there! What's your name?
+Seeker: Eliza
+TOB-STT: I need time to formulate the reply.
+Seeker: OK
+TOB-STT: Blimey.
+Seeker: ???
+TOB-STT: I don't know how to respond this
+Seeker: TOB_STT iniciar conversa
+TOB-STT: Hi there! What's your name?
+Seeker: Lilian
+TOB-STT: Hello Lilian ! Can you tell me your Numero USP?
+Seeker: 1234
+TOB-STT: Thank you! What's up?
+Seeker: I need help with the testing assignment
+TOB-STT: That's good information.
+Seeker: Help me
+TOB-STT: Ok, tell me. What is your question?
+Seeker: How can I apply the boundary analysis?
+TOB-STT: I don't know how to respond this
+Seeker: What is a test case?
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: What is a test oracle?
+TOB-STT: Have you tried another program?
+Seeker: I do not know how to respond this
+TOB-STT: I don't know how to respond this
+Seeker: TOB_STT iniciar conversa
+TOB-STT: Hi there! What's your name?
+Seeker: Eliza
+TOB-STT: Try searching the web.
+Seeker: What?
+TOB-STT: I don't know how to respond this.
+Seeker: TOB_STT iniciar conversa
+TOB-STT: Hi there! What's your name?
+Seeker: Rocky
+TOB-STT: Hello Rocky ! Can you tell me your Numero USP?
+Seeker: 1234
+TOB-STT: Thank you! What's up?
+Seeker: I do not know how to apply equivalence partitioning
+TOB-STT: The equivalence partitioning criterion divides the input domain in several subsets (partitions) with no intersection and selects a test case for each partition. The idea is that each test case represents all input domain that partition class and, therefore, one test case for each class is enough for this testing criterion. The criterion considers valid and invalid equivalence classes. For example, you can separate invalid and valid inputs into two different subsets or classes.
+Seeker: TOB_STT iniciar conversa
+TOB-STT: Hi there! What's your name?
+Seeker: Lilian
+TOB-STT: Hello Lilian ! Can you tell me your Numero USP?
+Seeker: 1234
+TOB-STT: Thank you! What's up?
+Seeker: Where is the venus?
+TOB-STT: I would look into the web for that knowledge.

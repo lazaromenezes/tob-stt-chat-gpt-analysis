@@ -1,0 +1,56 @@
+Seeker: hello
+TOB-STT: Hello, how are you?
+Seeker: hi
+TOB-STT: Welcome!
+Seeker: hello
+TOB-STT: Hi there, what do you need?
+Seeker: hello
+TOB-STT: Hello, ask me a question!
+Seeker: what you can talk me about fault
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: hello
+TOB-STT: Hello, ask me a question!
+Seeker: what is the difference between error and fault
+TOB-STT: An error is a state of execution of the program which is not expected and may lead to an incorrect result. Fault is an incorrect step, process, or data definition in computer program. Fault is the formal name of a bug.
+Seeker: what is Omission fault
+TOB-STT: Fault is an incorrect step, process, or data definition in computer program. Fault is the formal name of a bug.
+Seeker: What is incorrect fact
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is a fault of incorrect fault
+TOB-STT: Fault is an incorrect step, process, or data definition in computer program. Fault is the formal name of a bug.
+Seeker: give me an example of omission test
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: give me a example of omission test
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is software fault
+TOB-STT: Fault is an incorrect step, process, or data definition in computer program. Fault is the formal name of a bug.
+Seeker: what is software error
+TOB-STT: An error is a state of execution of the program which is not expected and may lead to an incorrect result.
+Seeker: what is software failure
+TOB-STT: A failure is a result of the program which is incorrect or not expected. This is caused by an error.
+Seeker: what is incorrect fact
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is software inspecion
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is Omission defect
+TOB-STT: A software defect or bug is a condition in a software product which doesn’t meet a software requirement or end-user expectation.
+Seeker: What is stranger information defect
+TOB-STT: A software defect or bug is a condition in a software product which doesn’t meet a software requirement or end-user expectation.
+Seeker: what is the name of the software defect
+TOB-STT: A software defect or bug is a condition in a software product which doesn’t meet a software requirement or end-user expectation.
+Seeker: what is incosistence defect
+TOB-STT: A software defect or bug is a condition in a software product which doesn’t meet a software requirement or end-user expectation.
+Seeker: incosistence
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what the types of software defects
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is inconsistency defect
+TOB-STT: A software defect or bug is a condition in a software product which doesn’t meet a software requirement or end-user expectation.
+Seeker: tell me about software defects
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is software defect
+TOB-STT: A software defect or bug is a condition in a software product which doesn’t meet a software requirement or end-user expectation.
+Seeker: what is software defect
+TOB-STT: A software defect or bug is a condition in a software product which doesn’t meet a software requirement or end-user expectation.
+Seeker: what is software error
+TOB-STT: An error is a state of execution of the program which is not expected and may lead to an incorrect result.

@@ -1,0 +1,18 @@
+Seeker: Simone
+TOB-STT: Hello Simone ! Can you tell me your Numero USP?
+Seeker: 1842655
+TOB-STT: Thank you! And nice to meet you!
+Seeker: Thanks
+TOB-STT: You are welcome! :)
+Seeker: What´s your name?
+TOB-STT: I have to think about that one for a while.
+Seeker: how fucntional testing works?
+TOB-STT: I don't know how to respond this
+Seeker: How to apply functional testing?
+TOB-STT: It depends of the criteria or technique used. The most common techniques used in functional testing are equivalence partitioning, boundary-value analysis and cause-effect graphing.
+Seeker: What´s functional testing?
+TOB-STT: Functional testing or black-box testing is a type of testing which checks if a program or system is working correctly only by comparing the expected outputs with the output of the program. The professional responsible for doing the test activity does only know the possible input and output values for the program, but has no knowledge of the source code or internal structure of the program or software.
+Seeker: How to apply cause-effect graphing?
+TOB-STT: I don't know how to respond this
+Seeker: How to apply equivalence partitioning?
+TOB-STT: The equivalence partitioning is done dividing the input set in several subsets with no intersecction (i.e. a partition) and creating a test case for each representative of the subsets. For example, you can separate invalid and valid inputs into two different subsets.

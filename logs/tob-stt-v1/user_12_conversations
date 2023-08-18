@@ -1,0 +1,54 @@
+Seeker: TOB_STT iniciar conversa
+TOB-STT: Hi there! What's your name?
+Seeker: Lucas
+TOB-STT: Hello Lucas ! Can you tell me your Numero USP?
+Seeker: 1234
+TOB-STT: Thank you! And nice to meet you!
+Seeker: How to generate a test case?
+TOB-STT: It depends on the criteria used. I don't know how to respond this The boundary-value analysis determines the boundaries for input values and selects the extremes of the boundary to use in a test case. For instance, if a program's valid input set are non negative numbers less not greater than 10, then one test case would use input 0 and another input 10.
+Seeker: TOB_STT iniciar conversa
+TOB-STT: Hi there! What's your name?
+Seeker: Lucas
+TOB-STT: Hello Lucas ! Can you tell me your Numero USP?
+Seeker: 123
+TOB-STT: Thank you! And nice to meet you!
+Seeker: How to generate a test case
+TOB-STT: It depends on the criterion used. The equivalence partitioning is done dividing the input set in several subsets with no intersecction (i.e. a partition) and creating a test case for each representative of the subsets. For example, you can separate invalid and valid inputs into two different subsets. The boundary-value analysis determines the boundaries for input values and selects the extremes of the boundary to use in a test case. For instance, if a program's valid input set are non negative numbers less not greater than 10, then one test case would use input 0 and another input 10.
+Seeker: TOB_STT iniciar conversa
+TOB-STT: Hi there! What's your name?
+Seeker: Lucas
+TOB-STT: Hello Lucas ! Can you tell me your Numero USP?
+Seeker: 133
+TOB-STT: Thank you! And nice to meet you!
+Seeker: Help me
+TOB-STT: Ok, tell me. What is your question?
+Seeker: TOB_STT iniciar conversa
+TOB-STT: Hi there! What's your name?
+Seeker: Lucas
+TOB-STT: Hello Lucas ! Can you tell me your Numero USP?
+Seeker: 123
+TOB-STT: Thank you! What's up?
+Seeker: Could you help me with something?
+TOB-STT: Ok, tell me. What is your question?
+Seeker: I would like to know how much is 1 + 1
+TOB-STT: I don't know how to respond this
+Seeker: Could you tell me what is a test case?
+TOB-STT: A test case is composed by the input data, the execution conditions and the expected output to be produced by the program.
+Seeker: Nice
+TOB-STT: Next question?
+Seeker: What is a test data?
+TOB-STT: The test data is the input data and the parameters associated with a specified test case.
+Seeker: Right
+TOB-STT: Groovy.
+Seeker: Ok, thank you!
+TOB-STT: Hi there!. You are welcome! :)
+Seeker: Bye
+TOB-STT: Thanks for chatting, Lucas.
+Seeker: what is the difference between a test case and a test data?
+TOB-STT: A test case is composed by the input data, the execution conditions and the expected output to be produced by the program.. There might be more than one.
+Seeker: what is the difference between test case and test data?
+TOB-STT: The test data is the input data and the parameters associated with a specific test case.
+Seeker: Ok, bye bye
+TOB-STT: So?. See you later!. Thanks for chatting, Lucas.
+Seeker: bye bye bye bye bye bye bye bye
+TOB-STT: See you later!. Until next time.. Thanks for chatting, Lucas.. Bye bye.. Adios.. TTYL, Lucas.. Bye bye.

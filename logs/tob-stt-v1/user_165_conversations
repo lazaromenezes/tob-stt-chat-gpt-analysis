@@ -1,0 +1,26 @@
+Seeker: Hello
+TOB-STT: Hello, ask me a question!
+Seeker: What is a fall
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: What is a Fault
+TOB-STT: Fault is an incorrect step, process, or data definition in computer program. Fault is the formal name of a bug.
+Seeker: what is a software error
+TOB-STT: An error is a state of execution of the program which is not expected and may lead to an incorrect result.
+Seeker: what is a difference of fault and error
+TOB-STT: An error is a state of execution of the program which is not expected and may lead to an incorrect result.
+Seeker: software testing
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is a software test
+TOB-STT: A test, in software testing, is the act of performing some assurance of both the correctness of a software and its validation of the project requisistes.
+Seeker: software failure
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is a software failure
+TOB-STT: A failure is a result of the program which is incorrect or not expected. This is caused by an error.
+Seeker: what is a structural testing
+TOB-STT: Structural testing (or White-Box testing) is a technique in which tests are derived from the knowledge of the software's structure or internal implementation. That way, the testing professional is able to check if a specific part of the code is correct. Unit testing is an instance of structural testing.
+Seeker: what is a functional testing
+TOB-STT: Functional testing (or Black Box Testing) is a technique whereby the system is tested against the functional requirements/specifications. During the functional testing the internal logic of the system being tested is not known to the tester. Functional testing ensures that the requirements are properly satisfied by the system. This type of testing is not concerned with how processing occurs, but rather, with the results of processing. It simulates actual system usage but does not make any system structure assumptions. Functional testing is normally performed during the levels of System Testing and Acceptance Testing.
+Seeker: what is an unit testing
+TOB-STT: Unit testing verifies the functioning in isolation of software elements that are separately testable. Depending on the context, these could be the individual subprograms or a larger component made of highly cohesive units. Typically, unit testing occurs with access to the code being tested and with the support of supporting tools. The programmers who wrote the code typically, but not always, conduct unit testing.
+Seeker: what is an integration testing
+TOB-STT: Integration testing is the process of verifying the interactions among software components. Classical integration testing strategies, such as top-down and bottom-up, are often used with hierarchically structured software.

@@ -1,0 +1,92 @@
+Seeker: TOB_STT iniciar conversa
+TOB-STT: I don't know how to respond this
+Seeker: hello
+TOB-STT: I don't know how to respond this
+Seeker: TOB_STT iniciar conversa
+TOB-STT: I don't know how to respond this
+Seeker: what is functional testing
+TOB-STT: Functional testing (or Black Box Testing) is a technique whereby the system is tested against the functional requirements/specifications. During the functional testing the internal logic of the system being tested is not known to the tester. Functional testing ensures that the requirements are properly satisfied by the system. This type of testing is not concerned with how processing occurs, but rather, with the results of processing. It simulates actual system usage but does not make any system structure assumptions. Functional testing is normally performed during the levels of System Testing and Acceptance Testing.
+Seeker: what is a functional testing
+TOB-STT: Functional testing (or Black Box Testing) is a technique whereby the system is tested against the functional requirements/specifications. During the functional testing the internal logic of the system being tested is not known to the tester. Functional testing ensures that the requirements are properly satisfied by the system. This type of testing is not concerned with how processing occurs, but rather, with the results of processing. It simulates actual system usage but does not make any system structure assumptions. Functional testing is normally performed during the levels of System Testing and Acceptance Testing.
+Seeker: what is black box testing
+TOB-STT: Functional testing (or Black Box Testing) is a technique whereby the system is tested against the functional requirements/specifications. During the functional testing the internal logic of the system being tested is not known to the tester. Functional testing ensures that the requirements are properly satisfied by the system. This type of testing is not concerned with how processing occurs, but rather, with the results of processing. It simulates actual system usage but does not make any system structure assumptions. Functional testing is normally performed during the levels of System Testing and Acceptance Testing.
+Seeker: wat is black box testing criteria
+TOB-STT: Functional testing (or Black Box Testing) is a technique whereby the system is tested against the functional requirements/specifications. During the functional testing the internal logic of the system being tested is not known to the tester. Functional testing ensures that the requirements are properly satisfied by the system. This type of testing is not concerned with how processing occurs, but rather, with the results of processing. It simulates actual system usage but does not make any system structure assumptions. Functional testing is normally performed during the levels of System Testing and Acceptance Testing.
+Seeker: TOB_STT iniciar conversa
+TOB-STT: I don't know how to respond this
+Seeker: what is an error
+TOB-STT: An error is a state of execution of the program which is not expected and may lead to an incorrect result.
+Seeker: wats a error
+TOB-STT: I don't know how to respond this
+Seeker: wat a error
+TOB-STT: An error is a state of execution of the program which is not expected and may lead to an incorrect result.
+Seeker: wat is a error
+TOB-STT: An error is a state of execution of the program which is not expected and may lead to an incorrect result.
+Seeker: what is a error
+TOB-STT: An error is a state of execution of the program which is not expected and may lead to an incorrect result.
+Seeker: what is a oracle
+TOB-STT: An oracle is any human or mechanical agent that decides whether a program behaved correctly in a given test and accordingly results in a verdict of “pass” or “fail.” There exist many different kinds of oracles; for example, unambiguous requirements specifications, behavioral models, and code annotations. Automation of mechanized oracles can be difficult and expensive.
+Seeker: can you tell me what is an error
+TOB-STT: I don't know how to respond this
+Seeker: TOB_STT iniciar conversa
+TOB-STT: I don't know how to respond this
+Seeker: can you tell me what is a error
+TOB-STT:
+Seeker: tell me
+TOB-STT: I don't know how to respond this
+Seeker: what is an error
+TOB-STT: An error is a state of execution of the program which is not expected and may lead to an incorrect result.
+Seeker: TOB_STT iniciar conversa
+TOB-STT: I don't know how to respond this
+Seeker: can you tell me what is an error
+TOB-STT: I don't know how to respond this
+Seeker: what is an error
+TOB-STT: An error is a state of execution of the program which is not expected and may lead to an incorrect result.
+Seeker: tell me this
+TOB-STT: I don't know how to respond this
+Seeker: TOB_STT iniciar conversa
+TOB-STT: I don't know how to respond this
+Seeker: can you tell me what is an error
+TOB-STT: An error is a state of execution of the program which is not expected and may lead to an incorrect result.
+Seeker: could you tell me this
+TOB-STT: I don't know how to respond this
+Seeker: could you tell me what do you do
+TOB-STT: I don't know how to respond this
+Seeker: can you tell me what is an orcale
+TOB-STT: I don't know how to respond this
+Seeker: can you tell me what is an oracle
+TOB-STT: An oracle is any human or mechanical agent that decides whether a program behaved correctly in a given test and accordingly results in a verdict of “pass” or “fail.” There exist many different kinds of oracles; for example, unambiguous requirements specifications, behavioral models, and code annotations. Automation of mechanized oracles can be difficult and expensive.
+Seeker: do you know what is an oracle
+TOB-STT: I don't know how to respond this
+Seeker: TOB_STT iniciar conversa
+TOB-STT: I don't know how to respond this
+Seeker: tell me an example of equivalence partitioning
+TOB-STT: Here is an example of an application of equivalence class partitioning. Consider the following specification: a switch is turned off when the temperature falls below 18˚C and is turned on again when it begomes greater than 21˚C. In this problem, some equivalence values belonging to the same classes are 22, 23 and 24.
+Seeker: what is a mistake
+TOB-STT: A mistake is a human action that inserts a fault (or defect) into the source code, for instance, a typo is a mistake.
+Seeker: show me an instance of functional testing
+TOB-STT: I don't know how to respond this
+Seeker: show me an instance of boundary value analysis
+TOB-STT: I don't know how to respond this
+Seeker: give me an instance of boundary value analysis
+TOB-STT: I don't know how to respond this
+Seeker: give me an example of boundary value analysis
+TOB-STT: Suppose you have a program in which the user has to create a password with length between 6 and 12. So the test cases generated for this program, using the boundary value analysis technique, would be for passwords with lengths 5, 6, 12 and 13.
+Seeker: instance of boundary value analysis
+TOB-STT: I don't know how to respond this
+Seeker: TOB_STT iniciar conversa
+TOB-STT: I don't know how to respond this
+Seeker: show me an instance of boundary value analysis
+TOB-STT: I don't know how to respond this
+Seeker: give me an example of boundary value analysis
+TOB-STT: I don't know how to respond this
+Seeker: what is an error
+TOB-STT: An error is a state of execution of the program which is not expected and may lead to an incorrect result.
+Seeker: TOB_STT iniciar conversa
+TOB-STT: I don't know how to respond this
+Seeker: show me an instance of equivalence partitioning class
+TOB-STT: Here is an example of an application of equivalence class partitioning. Consider the following specification: if you are below 18 years old, you are too young to be insured. If you are between 18 and 30 years old, you will get a 20% discount, but you are not elegible for an insurance if you are past 30. In this problem, the ages 18,.., 30 are in the same equivalence class
+Seeker: what is a class
+TOB-STT: I don't know how to respond this
+Seeker: what is an equivalence class
+TOB-STT: I don't know how to respond this

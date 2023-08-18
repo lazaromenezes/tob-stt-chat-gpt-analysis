@@ -1,0 +1,56 @@
+Seeker: hi
+TOB-STT: Hello, ask me a question!
+Seeker: what is a dog
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: how much is 3 + 4
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is an error
+TOB-STT: An error is a state of execution of the program which is not expected and may lead to an incorrect result.
+Seeker: error
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: error whaat
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: error whaT
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what error
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: who made you
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is fault
+TOB-STT: Fault is an incorrect step, process, or data definition in computer program. Fault is the formal name of a bug.
+Seeker: what is software testing
+TOB-STT: Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenaice.
+Seeker: what consists software testing
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is omission
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is fault
+TOB-STT: Fault is an incorrect step, process, or data definition in computer program. Fault is the formal name of a bug.
+Seeker: what is error
+TOB-STT: An error is a state of execution of the program which is not expected and may lead to an incorrect result.
+Seeker: what is failure
+TOB-STT: A failure is a result of the program which is incorrect or not expected. This is caused by an error.
+Seeker: what is test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: what is composed a test case
+TOB-STT: A test case is composed by the test input, the execution conditions and the expected output to be produced by the program.
+Seeker: what is oracle problem
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is white box
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is white box testing
+TOB-STT: Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenaice.
+Seeker: what is black box testing
+TOB-STT: Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenaice.
+Seeker: what is black box
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is functional test
+TOB-STT: A test, in software testing, is the act of performing some assurance of both the correctness of a software and its validation of the project requisistes.
+Seeker: what is is functional testing
+TOB-STT: Functional testing (or Black Box Testing) is a technique whereby the system is tested against the functional requirements/specifications. During the functional testing the internal logic of the system being tested is not known to the tester. Functional testing ensures that the requirements are properly satisfied by the system. This type of testing is not concerned with how processing occurs, but rather, with the results of processing. It simulates actual system usage but does not make any system structure assumptions. Functional testing is normally performed during the levels of System Testing and Acceptance Testing.
+Seeker: what is structural testing
+TOB-STT: Structural testing (or White-Box testing) is a technique in which tests are derived from the knowledge of the software's structure or internal implementation. That way, the testing professional is able to check if a specific part of the code is correct. Unit testing is an instance of structural testing.
+Seeker: unit testing
+TOB-STT: Sorry, I still can't answer that.. Could you ask me differently?
+Seeker: what is unit testing
+TOB-STT: Unit testing verifies the functioning in isolation of software elements that are separately testable. Depending on the context, these could be the individual subprograms or a larger component made of highly cohesive units. Typically, unit testing occurs with access to the code being tested and with the support of supporting tools. The programmers who wrote the code typically, but not always, conduct unit testing.
