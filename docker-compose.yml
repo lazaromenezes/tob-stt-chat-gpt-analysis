@@ -18,7 +18,9 @@ services:
       context: .
   jupyter:
     profiles: ["analysis"]
-    image: jupyter/datascience-notebook:2023-07-31
+    build:
+      context: .
+      dockerfile: Dockerfile-Analysis
     ports:
       - "8888:8888"
     volumes:
