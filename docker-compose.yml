@@ -6,6 +6,7 @@ services:
     ports:
       - 4444
       - "7900:7900"
+
   extractor:
     profiles: ["extractor"]
     depends_on:
@@ -16,6 +17,32 @@ services:
       DRIVER_URL: "http://chrome-server:4444"
     build:
       context: .
+
+  tobserver:
+    profiles: ["analysis"]
+    image: lazarodm/tobstt
+    ports:
+    - "5005:5005"
+    depends_on:
+    - dbserver
+    entrypoint: ["rasa", "run", "-p", "5005", "--enable-api", "--auth-token", "jupytertob", "--connector", "rest"]
+    environment:
+      TELEGRAM_ACCESS_TOKEN: 5999970947:AAH2gdRM9ZfgQuD_5Qh2Mg6BCFtgqndG14w
+      TELEGRAM_BOT_USERNAME: tobstt_dev_bot
+      TELEGRAM_WEBHOOK_URL: https://tobsttdeverun.loca.lt/webhooks/telegram/webhook
+      MONGO_DB_SERVER: mongodb://dbserver:27017
+    deploy:
+      resources:
+        reservations:
+          devices:
+          - capabilities: [gpu]
+
+  dbserver:
+    image: mongo
+    profiles: ["analysis"]
+    volumes:
+      - /home/lazaro/dev/tob-stt/rasa-bot/db:/data/db
+
   jupyter:
     profiles: ["analysis"]
     build:
@@ -29,6 +56,5 @@ services:
       resources:
         reservations:
           devices:
-            - driver: nvidia
-              capabilities: [gpu]
+          - capabilities: [gpu]
 
