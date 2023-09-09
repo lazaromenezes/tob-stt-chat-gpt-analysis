@@ -31,6 +31,8 @@ services:
       TELEGRAM_BOT_USERNAME: tobstt_dev_bot
       TELEGRAM_WEBHOOK_URL: https://tobsttdeverun.loca.lt/webhooks/telegram/webhook
       MONGO_DB_SERVER: mongodb://dbserver:27017
+    volumes:
+      - /home/lazaro/dev/tob-stt/rasa-bot/models:/tob-stt/models
     deploy:
       resources:
         reservations:
