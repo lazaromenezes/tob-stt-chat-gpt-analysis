@@ -1,4 +1,4 @@
-,user,question,answer,question_class
+index,user,question,answer,question_class
 0,100,hi,"Hello, how are you?",Greet
 1,100,Simone,"Sorry, I still can't answer that.. Could you ask me differently?",Statement
 2,100,I am Simone,"Sorry, I still can't answer that.. Could you ask me differently?",Statement
