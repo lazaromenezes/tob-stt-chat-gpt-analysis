@@ -22,8 +22,8 @@ def open_site(driver):
 
 def login(driver):
     print("Login")
-    driver.find_element(By.ID, "user_name").send_keys("")
-    driver.find_element(By.ID, "pw").send_keys("")
+    driver.find_element(By.ID, "user_name").send_keys("****")
+    driver.find_element(By.ID, "pw").send_keys("****")
     driver.find_element(By.XPATH, "//input[@type='submit']").click()
 
 def navigate_to_logs(driver):
@@ -63,15 +63,11 @@ def extract_log(driver, user):
 if __name__ == "__main__":
    
     driver = start_driver()
-    
+
     open_site(driver)
-
     login(driver)
-
     navigate_to_logs(driver)
-
     display_all_logs(driver)
-
     extract_logs(driver)
 
     driver.quit()
